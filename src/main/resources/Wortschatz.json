@@ -1,308 +1,386 @@
 [
-  {
-    "language": "German",
-    "preferred": true,
-    "sources": [
       {
-        "source": "Das agile Mindset",
-        "preferred": true,
-        "words": [
-          {
-            "mfn": "f",
-            "wrd": "Absicht",
-            "trn": "намерение",
-            "xmp": ""
-          },
-          {
-            "mfn": "",
-            "wrd": "angemessen",
-            "trn": "соответствующий",
-            "xmp": ""
-          },
-          {
-            "mfn": "m",
-            "wrd": "Ansatz/Ansätze",
-            "trn": "подход",
-            "xmp": "Agilität als Ansatz zur Unternehmenssteuerung"
-          },
-          {
-            "mfn": "",
-            "wrd": "die Art und Weise",
-            "trn": "способ",
-            "xmp": ""
-          },
-          {
-            "mfn": "f",
-            "wrd": "Ausgangsbasis",
-            "trn": "исходный пункт",
-            "xmp": ""
-          },
-          {
-            "mfn": "",
-            "wrd": "ausführen",
-            "trn": "излагать",
-            "xmp": "bevor ich weiter ausführe, ..."
-          },
-          {
-            "mfn": "",
-            "wrd": "ausrufen",
-            "trn": "объявлять/провозглашать",
-            "xmp": ""
-          },
-          {
-            "mfn": "",
-            "wrd": "bewerben",
-            "trn": "Reklame machen",
-            "xmp": ""
-          },
-          {
-            "mfn": "",
-            "wrd": "darstellen",
-            "trn": "представлять, изображать",
-            "xmp": ""
-          },
-          {
-            "mfn": "",
-            "wrd": "durchaus",
-            "trn": "абсолютно",
-            "xmp": ""
-          },
-          {
-            "mfn": "f",
-            "wrd": "Ebene",
-            "trn": "уровень",
-            "xmp": ""
-          },
-          {
-            "mfn": "",
-            "wrd": "einbeziehen",
-            "trn": "включать (во что-то)",
-            "xmp": ""
-          },
-          {
-            "mfn": "",
-            "wrd": "einbringen",
-            "trn": "представлять",
-            "xmp": "mochte ich hier einbringen..."
-          },
-          {
-            "mfn": "",
-            "wrd": "einhergehend",
-            "trn": "сопровождающий",
-            "xmp": ""
-          },
-          {
-            "mfn": "",
-            "wrd": "einführen",
-            "trn": "вводить",
-            "xmp": "ich führe meine Haltung ein"
-          },
-          {
-            "mfn": "",
-            "wrd": "entsprechen",
-            "trn": "соответствовать",
-            "xmp": ""
-          },
-          {
-            "mfn": "",
-            "wrd": "erheblich besser",
-            "trn": "значительно лучше",
-            "xmp": ""
-          },
-          {
-            "mfn": "",
-            "wrd": "ermöglichen",
-            "trn": "делать возможным",
-            "xmp": ""
-          },
-          {
-            "mfn": "f",
-            "wrd": "Facette",
-            "trn": "грань",
-            "xmp": ""
-          },
-          {
-            "mfn": "f",
-            "wrd": "Förderung",
-            "trn": "поощрение",
-            "xmp": "Focus auf Förderung von selbst organisierten Teams"
-          },
-          {
-            "mfn": "",
-            "wrd": "immer noch",
-            "trn": "всё ещё",
-            "xmp": ""
-          },
-          {
-            "mfn": "",
-            "wrd": "inhaltlich",
-            "trn": "по существу",
-            "xmp": ""
-          },
-          {
-            "mfn": "",
-            "wrd": "in gewisser Weise",
-            "trn": "в известном смысле",
-            "xmp": ""
-          },
-          {
-            "mfn": "",
-            "wrd": "grundlegend",
-            "trn": "основополагающий",
-            "xmp": ""
-          },
-          {
-            "mfn": "f",
-            "wrd": "Haltung",
-            "trn": "позиция",
-            "xmp": "Agilität als Haltung"
-          },
-          {
-            "mfn": "f",
-            "wrd": "Handlung",
-            "trn": "действие",
-            "xmp": ""
-          },
-          {
-            "mfn": "f",
-            "wrd": "Herangehensweise",
-            "trn": "подход (к решению проблемы)",
-            "xmp": ""
-          },
-          {
-            "mfn": "f",
-            "wrd": "Herausforderung",
-            "trn": "вызов",
-            "xmp": ""
-          },
-          {
-            "mfn": "",
-            "wrd": "hochfahren",
-            "trn": "подниматься",
-            "xmp": ""
-          },
-          {
-            "mfn": "",
-            "wrd": "meiner Meinung nach",
-            "trn": "по моему мнению",
-            "xmp": ""
-          },
-          {
-            "mfn": "m",
-            "wrd": "Leitfaden",
-            "trn": "руководство",
-            "xmp": ""
-          },
-          {
-            "mfn": "f",
-            "wrd": "Nische",
-            "trn": "ниша",
-            "xmp": ""
-          },
-          {
-            "mfn": "m(f)",
-            "wrd": "Prophet(in)",
-            "trn": "пророк",
-            "xmp": ""
-          },
-          {
-            "mfn": "",
-            "wrd": "raffiniert",
-            "trn": "изысканный/утонченный/хитрый/коварный",
-            "xmp": ""
-          },
-          {
-            "mfn": "n",
-            "wrd": "Umfeld",
-            "trn": "окружение",
-            "xmp": ""
-          },
-          {
-            "mfn": "m",
-            "wrd": "Umgang (mit jdm)",
-            "trn": "общение (с людьми)/обращение (с прибором)",
-            "xmp": ""
-          },
-          {
-            "mfn": "f(m)",
-            "wrd": "Verbündete(r)",
-            "trn": "союзница/союзник",
-            "xmp": ""
-          },
-          {
-            "mfn": "",
-            "wrd": "verlangen",
-            "trn": "требовать",
-            "xmp": ""
-          },
-          {
-            "mfn": "",
-            "wrd": "verzichten (auf)",
-            "trn": "отказываться",
-            "xmp": ""
-          },
-          {
-            "mfn": "",
-            "wrd": "vorantreiben",
-            "trn": "ускорять/форсировать",
-            "xmp": ""
-          },
-          {
-            "mfn": "",
-            "wrd": "wesentlich",
-            "trn": "существенный",
-            "xmp": ""
-          },
-          {
-            "mfn": "",
-            "wrd": "willkürlich",
-            "trn": "произвольно",
-            "xmp": ""
-          },
-          {
-            "mfn": "",
-            "wrd": "wirksam",
-            "trn": "действенный",
-            "xmp": ""
-          },
-          {
-            "mfn": "",
-            "wrd": "zwangsläufig",
-            "trn": "неизбежный",
-            "xmp": ""
-          },
-          {
-            "mfn": "",
-            "wrd": "über die Zeit des <Gen> hinaus",
-            "trn": "по прошествии ч.-л.",
-            "xmp": ""
-          },
-          {
-            "mfn": "",
-            "wrd": "überhaupt",
-            "trn": "вообще",
-            "xmp": ""
-          },
-          {
-            "mfn": "",
-            "wrd": "und zwar",
-            "trn": "а именно",
-            "xmp": ""
-          },
-          {
-            "mfn": "",
-            "wrd": "sich Dat etw Gen bewusst sein",
-            "trn": "знать что-либо",
-            "xmp": ""
-          },
-          {
-            "mfn": "",
-            "wrd": "das lässt sich verschieden",
-            "trn": "это можно сделать разными способами",
-            "xmp": ""
-          }
-        ]
+            "language": "German",
+            "preferred": true,
+            "sources": [
+                  {
+                        "source": "Das agile Mindset",
+                        "preferred": true,
+                        "words": [
+                              {
+                                    "mfn": "f",
+                                    "wrd": "Absicht",
+                                    "trn": "намерение",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "m",
+                                    "wrd": "Ansatz/Ansätze",
+                                    "trn": "подход",
+                                    "xmp": "Agilität als Ansatz zur Unternehmenssteuerung"
+                              },
+                              {
+                                    "mfn": "f",
+                                    "wrd": "Aufnahmefähigkeit",
+                                    "trn": "вместимость",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "f",
+                                    "wrd": "Ausgangsbasis",
+                                    "trn": "исходный пункт",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "f",
+                                    "wrd": "Ebene",
+                                    "trn": "уровень",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "f",
+                                    "wrd": "Facette",
+                                    "trn": "грань",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "f",
+                                    "wrd": "Förderung",
+                                    "trn": "поощрение",
+                                    "xmp": "Focus auf Förderung von selbst organisierten Teams"
+                              },
+                              {
+                                    "mfn": "f",
+                                    "wrd": "Haltung",
+                                    "trn": "позиция",
+                                    "xmp": "Agilität als Haltung"
+                              },
+                              {
+                                    "mfn": "f",
+                                    "wrd": "Handlung",
+                                    "trn": "действие",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "f",
+                                    "wrd": "Herangehensweise",
+                                    "trn": "подход (к решению проблемы)",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "f",
+                                    "wrd": "Herausforderung",
+                                    "trn": "вызов",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "f",
+                                    "wrd": "Lage",
+                                    "trn": "положение/ситуация",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "m",
+                                    "wrd": "Leitfaden",
+                                    "trn": "руководство",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "f",
+                                    "wrd": "Nische",
+                                    "trn": "ниша",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "m(f)",
+                                    "wrd": "Prophet(in)",
+                                    "trn": "пророк",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "f",
+                                    "wrd": "Spürnase",
+                                    "trn": "нюх/проницательность",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "n",
+                                    "wrd": "Umfeld",
+                                    "trn": "окружение",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "m",
+                                    "wrd": "Umgang (mit jdm)",
+                                    "trn": "общение (с людьми)/обращение (с прибором)",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "f(m)",
+                                    "wrd": "Verbündete(r)",
+                                    "trn": "союзница/союзник",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "angeblich",
+                                    "trn": "мнимый",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "angemessen",
+                                    "trn": "соответствующий",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "ausführen",
+                                    "trn": "излагать",
+                                    "xmp": "bevor ich weiter ausführe, ..."
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "ausrufen",
+                                    "trn": "объявлять/провозглашать",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "bedingungslos",
+                                    "trn": "безоговорочно",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "bewerben",
+                                    "trn": "Reklame machen",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "daher",
+                                    "trn": "оттуда",
+                                    "xmp": "das kommt daher, dass... - это от того, что..."
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "darstellen",
+                                    "trn": "представлять, изображать",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "das lässt sich verschieden",
+                                    "trn": "это можно сделать разными способами",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "dazwischen",
+                                    "trn": "между этим/тем",
+                                    "xmp": "mit der Hand komme ich dazwischen - я могу рукой пролезть/достать"
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "die Art und Weise",
+                                    "trn": "способ",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "durchaus",
+                                    "trn": "абсолютно",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "einbeziehen",
+                                    "trn": "включать (во что-то)",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "einbringen",
+                                    "trn": "представлять",
+                                    "xmp": "mochte ich hier einbringen..."
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "einführen",
+                                    "trn": "вводить",
+                                    "xmp": "ich führe meine Haltung ein"
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "einhergehend",
+                                    "trn": "сопровождающий",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "entsprechen",
+                                    "trn": "соответствовать",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "erheblich besser",
+                                    "trn": "значительно лучше",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "ermöglichen",
+                                    "trn": "делать возможным",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "festgefahren",
+                                    "trn": "застрявший (на мёртвой точке)/зашедший в тупик",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "feststellen",
+                                    "trn": "устанавливать/констатировать",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "grundlegend",
+                                    "trn": "основополагающий",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "hochfahren",
+                                    "trn": "подниматься",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "immer noch",
+                                    "trn": "всё ещё",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "in gewisser Weise",
+                                    "trn": "в известном смысле",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "inhaltlich",
+                                    "trn": "по существу",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "meiner Meinung nach",
+                                    "trn": "по моему мнению",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "raffiniert",
+                                    "trn": "изысканный/утонченный/хитрый/коварный",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "scheitern",
+                                    "trn": "потерпеть неудачу",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "sich Dat etw Gen bewusst sein",
+                                    "trn": "знать что-либо",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "und zwar",
+                                    "trn": "а именно",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "verlangen",
+                                    "trn": "требовать",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "verzichten (auf)",
+                                    "trn": "отказываться",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "vorantreiben",
+                                    "trn": "ускорять/форсировать",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "vorherrschen",
+                                    "trn": "преобладать",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "weitgehend",
+                                    "trn": "далекоидущий",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "wesentlich",
+                                    "trn": "существенный",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "willkürlich",
+                                    "trn": "произвольно",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "wirksam",
+                                    "trn": "действенный",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "zwangsläufig",
+                                    "trn": "неизбежный",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "f",
+                                    "wrd": "Übertreibung",
+                                    "trn": "преувеличение",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "über die Zeit des <Gen> hinaus",
+                                    "trn": "по прошествии ч.-л.",
+                                    "xmp": ""
+                              },
+                              {
+                                    "mfn": "",
+                                    "wrd": "überhaupt",
+                                    "trn": "вообще",
+                                    "xmp": ""
+                              }
+                        ]
+                  }
+            ]
       }
-    ]
-  }
 ]
