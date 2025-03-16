@@ -14,7 +14,7 @@ public class Word implements Comparable<Word> {
 
     @Override
     public int compareTo(Word o) {
-        return this.value.compareTo(o.value);
+        return this.value.compareToIgnoreCase(o.value);
     }
 
     public enum MFN {
