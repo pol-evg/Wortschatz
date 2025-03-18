@@ -9,6 +9,12 @@
         "words": [
           {
             "mfn": "f",
+            "wrd": "Abkürzung",
+            "trn": "упрощение",
+            "xmp": "Abkürzungen des Denkens"
+          },
+          {
+            "mfn": "f",
             "wrd": "Absicht",
             "trn": "намерение",
             "xmp": ""
@@ -23,6 +29,12 @@
             "mfn": "",
             "wrd": "angemessen",
             "trn": "соответствующий",
+            "xmp": ""
+          },
+          {
+            "mfn": "f",
+            "wrd": "Annahme",
+            "trn": "приём/предположение",
             "xmp": ""
           },
           {
@@ -62,9 +74,21 @@
             "xmp": ""
           },
           {
+            "mfn": "m",
+            "wrd": "Bauchgefühl",
+            "trn": "интуиция",
+            "xmp": ""
+          },
+          {
             "mfn": "",
             "wrd": "bedingungslos",
             "trn": "безоговорочно",
+            "xmp": ""
+          },
+          {
+            "mfn": "",
+            "wrd": "begreifen/begriff/hat begriffen",
+            "trn": "понимать/соображать",
             "xmp": ""
           },
           {
@@ -93,9 +117,21 @@
           },
           {
             "mfn": "",
+            "wrd": "dazuführen",
+            "trn": "приводить",
+            "xmp": "Diese führt dazu, dass ..."
+          },
+          {
+            "mfn": "",
             "wrd": "dazwischen",
             "trn": "между этим/тем",
             "xmp": "mit der Hand komme ich dazwischen - я могу рукой пролезть/достать"
+          },
+          {
+            "mfn": "",
+            "wrd": "demnach",
+            "trn": "соответственно/согласно",
+            "xmp": ""
           },
           {
             "mfn": "",
@@ -108,6 +144,12 @@
             "wrd": "durchaus",
             "trn": "абсолютно",
             "xmp": ""
+          },
+          {
+            "mfn": "",
+            "wrd": "durchdenken",
+            "trn": "продумывать",
+            "xmp": "wohl durchdenken - хорошо обдуманный"
           },
           {
             "mfn": "f",
@@ -147,6 +189,12 @@
           },
           {
             "mfn": "",
+            "wrd": "entstehen",
+            "trn": "возникать",
+            "xmp": ""
+          },
+          {
+            "mfn": "",
             "wrd": "erheblich besser",
             "trn": "значительно лучше",
             "xmp": ""
@@ -155,6 +203,12 @@
             "mfn": "",
             "wrd": "ermöglichen",
             "trn": "делать возможным",
+            "xmp": ""
+          },
+          {
+            "mfn": "",
+            "wrd": "etw ist jdm in Fleisch und Blut übergegangen",
+            "trn": "стать второй натурой",
             "xmp": ""
           },
           {
@@ -180,6 +234,12 @@
             "wrd": "Förderung",
             "trn": "поощрение",
             "xmp": "Focus auf Förderung von selbst organisierten Teams"
+          },
+          {
+            "mfn": "m",
+            "wrd": "Glaubenssatz",
+            "trn": "догма",
+            "xmp": "durch soziale Prägungen entstandene Glaubenssätze"
           },
           {
             "mfn": "",
@@ -209,6 +269,12 @@
             "mfn": "f",
             "wrd": "Herausforderung",
             "trn": "вызов",
+            "xmp": ""
+          },
+          {
+            "mfn": "",
+            "wrd": "hineinfallen",
+            "trn": "(по)падать",
             "xmp": ""
           },
           {
@@ -266,6 +332,12 @@
             "xmp": ""
           },
           {
+            "mfn": "f",
+            "wrd": "Prägung",
+            "trn": "обусловленность",
+            "xmp": "durch soziale Prägungen entstandene Glaubenssätze"
+          },
+          {
             "mfn": "",
             "wrd": "raffiniert",
             "trn": "изысканный/утонченный/хитрый/коварный",
@@ -293,6 +365,12 @@
             "mfn": "f",
             "wrd": "Spürnase",
             "trn": "нюх/проницательность",
+            "xmp": ""
+          },
+          {
+            "mfn": "",
+            "wrd": "trügerisch",
+            "trn": "обманчивый",
             "xmp": ""
           },
           {
@@ -365,6 +443,12 @@
             "mfn": "",
             "wrd": "wesentlich",
             "trn": "существенный",
+            "xmp": ""
+          },
+          {
+            "mfn": "",
+            "wrd": "widerlegen",
+            "trn": "опровергать",
             "xmp": ""
           },
           {
