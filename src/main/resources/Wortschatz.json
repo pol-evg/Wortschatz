@@ -45,6 +45,12 @@
           },
           {
             "mfn": "",
+            "wrd": "anschließend",
+            "trn": "последующий",
+            "xmp": ""
+          },
+          {
+            "mfn": "",
             "wrd": "ansetzen",
             "trn": "начинать",
             "xmp": ""
@@ -53,6 +59,12 @@
             "mfn": "f",
             "wrd": "Aufnahmefähigkeit",
             "trn": "вместимость",
+            "xmp": ""
+          },
+          {
+            "mfn": "f",
+            "wrd": "Aufstellung",
+            "trn": "постановка/расстановка",
             "xmp": ""
           },
           {
@@ -90,6 +102,18 @@
             "wrd": "begreifen/begriff/hat begriffen",
             "trn": "понимать/соображать",
             "xmp": ""
+          },
+          {
+            "mfn": "m",
+            "wrd": "Begriff",
+            "trn": "понятие",
+            "xmp": ""
+          },
+          {
+            "mfn": "",
+            "wrd": "beruhen (auf)",
+            "trn": "покоиться на",
+            "xmp": "etw beruht auf Gegenseitigkeit - что-либо основывается на взаимности"
           },
           {
             "mfn": "",
@@ -180,6 +204,12 @@
             "wrd": "einhergehend",
             "trn": "сопровождающий",
             "xmp": ""
+          },
+          {
+            "mfn": "f",
+            "wrd": "Einstellung",
+            "trn": "настройка/регулировака",
+            "xmp": "Einstellung des Verstandes"
           },
           {
             "mfn": "",
@@ -332,6 +362,12 @@
             "xmp": ""
           },
           {
+            "mfn": "",
+            "wrd": "prägen",
+            "trn": "формировать",
+            "xmp": ""
+          },
+          {
             "mfn": "f",
             "wrd": "Prägung",
             "trn": "обусловленность",
@@ -347,6 +383,12 @@
             "mfn": "",
             "wrd": "rudern",
             "trn": "грести",
+            "xmp": ""
+          },
+          {
+            "mfn": "n",
+            "wrd": "Rückgrat",
+            "trn": "позвоночник",
             "xmp": ""
           },
           {
@@ -410,6 +452,12 @@
             "xmp": ""
           },
           {
+            "mfn": "m",
+            "wrd": "Verstand",
+            "trn": "разум",
+            "xmp": ""
+          },
+          {
             "mfn": "",
             "wrd": "verzichten (auf)",
             "trn": "отказываться",
@@ -461,6 +509,12 @@
             "mfn": "",
             "wrd": "wirksam",
             "trn": "действенный",
+            "xmp": ""
+          },
+          {
+            "mfn": "f",
+            "wrd": "Zusammenstellung",
+            "trn": "состав/список/сборник",
             "xmp": ""
           },
           {
