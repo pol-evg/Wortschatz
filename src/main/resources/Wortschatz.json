@@ -32,6 +32,12 @@
             "xmp": ""
           },
           {
+            "mfn": "n",
+            "wrd": "Anliegen",
+            "trn": "желание/просьба",
+            "xmp": "ein Anliegen haben - иметь дело к кому-либо"
+          },
+          {
             "mfn": "f",
             "wrd": "Annahme",
             "trn": "приём/предположение",
@@ -86,6 +92,12 @@
             "xmp": ""
           },
           {
+            "mfn": "",
+            "wrd": "aussagen",
+            "trn": "высказывать/выражать",
+            "xmp": ""
+          },
+          {
             "mfn": "m",
             "wrd": "Bauchgefühl",
             "trn": "интуиция",
@@ -111,6 +123,12 @@
           },
           {
             "mfn": "",
+            "wrd": "begründen",
+            "trn": "обосновывать",
+            "xmp": ""
+          },
+          {
+            "mfn": "",
             "wrd": "beruhen (auf)",
             "trn": "покоиться на",
             "xmp": "etw beruht auf Gegenseitigkeit - что-либо основывается на взаимности"
@@ -119,6 +137,12 @@
             "mfn": "",
             "wrd": "bewerben",
             "trn": "Reklame machen",
+            "xmp": ""
+          },
+          {
+            "mfn": "",
+            "wrd": "beziehen (sich)",
+            "trn": "ссылаться",
             "xmp": ""
           },
           {
@@ -195,6 +219,12 @@
           },
           {
             "mfn": "",
+            "wrd": "eine Entscheidung treffen",
+            "trn": "принимать решение",
+            "xmp": ""
+          },
+          {
+            "mfn": "",
             "wrd": "einführen",
             "trn": "вводить",
             "xmp": "ich führe meine Haltung ein"
@@ -210,6 +240,12 @@
             "wrd": "Einstellung",
             "trn": "настройка/регулировака",
             "xmp": "Einstellung des Verstandes"
+          },
+          {
+            "mfn": "m",
+            "wrd": "Eintrag",
+            "trn": "запись",
+            "xmp": ""
           },
           {
             "mfn": "",
@@ -266,10 +302,22 @@
             "xmp": "Focus auf Förderung von selbst organisierten Teams"
           },
           {
+            "mfn": "",
+            "wrd": "gelten/galt/gegolten",
+            "trn": "быть действительным",
+            "xmp": ""
+          },
+          {
             "mfn": "m",
             "wrd": "Glaubenssatz",
             "trn": "догма",
             "xmp": "durch soziale Prägungen entstandene Glaubenssätze"
+          },
+          {
+            "mfn": "f",
+            "wrd": "Grundlage",
+            "trn": "основа/основание",
+            "xmp": ""
           },
           {
             "mfn": "",
@@ -374,6 +422,12 @@
             "xmp": "durch soziale Prägungen entstandene Glaubenssätze"
           },
           {
+            "mfn": "f",
+            "wrd": "Prämisse",
+            "trn": "предпосылка",
+            "xmp": ""
+          },
+          {
             "mfn": "",
             "wrd": "raffiniert",
             "trn": "изысканный/утонченный/хитрый/коварный",
@@ -401,6 +455,12 @@
             "mfn": "",
             "wrd": "sich Dat etw Gen bewusst sein",
             "trn": "знать что-либо",
+            "xmp": ""
+          },
+          {
+            "mfn": "n",
+            "wrd": "Sortiment",
+            "trn": "ассортимент",
             "xmp": ""
           },
           {
@@ -473,6 +533,12 @@
             "mfn": "",
             "wrd": "vorgehen",
             "trn": "происходить/действовать/поступать/выходить",
+            "xmp": ""
+          },
+          {
+            "mfn": "f",
+            "wrd": "Vorgehensweise",
+            "trn": "образ действия",
             "xmp": ""
           },
           {
