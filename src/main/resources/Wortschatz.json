@@ -5,7 +5,7 @@
     "sources": [
       {
         "source": "Das agile Mindset",
-        "preferred": true,
+        "preferred": false,
         "words": [
           {
             "mfn": "f",
@@ -611,6 +611,72 @@
             "mfn": "f",
             "wrd": "Übertreibung",
             "trn": "преувеличение",
+            "xmp": ""
+          }
+        ]
+      },
+      {
+        "source": "Steuererklärung",
+        "preferred": true,
+        "words": [
+          {
+            "mfn": "f",
+            "wrd": "Aufwendung",
+            "trn": "затраты",
+            "xmp": ""
+          },
+          {
+            "mfn": "",
+            "wrd": "ausschöpfen",
+            "trn": "исчерпать",
+            "xmp": ""
+          },
+          {
+            "mfn": "f",
+            "wrd": "Bemessungsgrundlage",
+            "trn": "основание для определения размеров чего-либо",
+            "xmp": ""
+          },
+          {
+            "mfn": "",
+            "wrd": "berücksichtigen",
+            "trn": "учитывать",
+            "xmp": ""
+          },
+          {
+            "mfn": "",
+            "wrd": "Einkünfte",
+            "trn": "доходы",
+            "xmp": ""
+          },
+          {
+            "mfn": "f",
+            "wrd": "Erläuterung",
+            "trn": "пояснение/объяснение",
+            "xmp": ""
+          },
+          {
+            "mfn": "",
+            "wrd": "festsetzen",
+            "trn": "устанавливать",
+            "xmp": ""
+          },
+          {
+            "mfn": "f",
+            "wrd": "Steuerfestsetzung",
+            "trn": "налоговая фиксация",
+            "xmp": ""
+          },
+          {
+            "mfn": "",
+            "wrd": "verbleibend",
+            "trn": "оставшийся",
+            "xmp": ""
+          },
+          {
+            "mfn": "",
+            "wrd": "vorläufig",
+            "trn": "временный/предварительный",
             "xmp": ""
           }
         ]
