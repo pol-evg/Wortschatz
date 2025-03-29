@@ -16,7 +16,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Language defaultSource = Language.loadDefaultLanguageAndSource();
+        Language language = Language.loadDefaultLanguageAndSource();
 
         Scanner scanner = new Scanner(System.in);
 
@@ -26,10 +26,15 @@ public class Main {
             if (Objects.equals(cmd, "q")) return;
             if (cmd == null || cmd.isBlank()) continue;
 
+            if (cmd.equals("r")) {
+                language.write();
+                continue;
+            }
+
             if (cmd.startsWith("a ")) {
                 try {
                     Word w = parseWordFromInputString(cmd);
-                    defaultSource.checkUniqueAndAddToDefaultSource(w);
+                    language.checkUniqueAndAddToDefaultSource(w);
                 }
                 catch (Exception ex) {
                     System.out.println(ex.getMessage());
@@ -42,6 +47,7 @@ public class Main {
     private static void printCommands() {
         System.out.println("Commands available:");
         System.out.println("a \"mfn\" \"word\" \"translate\" \"example\" : adds new word to the default source");
+        System.out.println("r : builds Readme.md");
         System.out.println("q : quits the program");
     }
 

@@ -91,4 +91,27 @@ public class Word implements Comparable<Word> {
         }
         return stringBuilder.toString();
     }
+
+    public String toMarkdown() {
+        StringBuilder stringBuilder = new StringBuilder();
+        stringBuilder.append('|');
+        switch (mfn) {
+            case FEMININE -> stringBuilder.append("die ");
+            case MASCULINE -> stringBuilder.append("der ");
+            case FEMININE_AND_MASCULINE -> stringBuilder.append("die(der) ");
+            case MASCULINE_AND_FEMININE -> stringBuilder.append("der(die) ");
+            case NEUTRAL -> stringBuilder.append("das ");
+        }
+        stringBuilder.append(value);
+        stringBuilder.append('|');
+        stringBuilder.append(translation);
+        stringBuilder.append('|');
+        if (example != null && !example.isBlank()) {
+            stringBuilder.append(example);
+        } else {
+            stringBuilder.append(' ');
+        }
+        stringBuilder.append('|');
+        return stringBuilder.toString();
+    }
 }

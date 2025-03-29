@@ -3,9 +3,12 @@ package polikarpov.evgenii.data;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.Data;
 
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.IOException;
+import java.nio.file.Files;
 import java.nio.file.Path;
+import java.nio.file.StandardOpenOption;
 import java.util.Arrays;
 import java.util.Optional;
 import java.util.concurrent.Executors;
@@ -62,7 +65,7 @@ public class Language {
                 getLanguage(), defaultSource.getSource(), defaultSource.getWords().size());
     }
 
-    private void write() {
+    public void write() {
         try (var executor = Executors.newSingleThreadExecutor()) {
             executor.submit(() -> {
                 ObjectMapper objectMapper = new ObjectMapper();
@@ -71,6 +74,8 @@ public class Language {
                     try {
                         objectMapper.writerWithDefaultPrettyPrinter().writeValue(file, this);
                         System.out.println("Saved");
+                        updateReadme();
+                        System.out.println("Readme file updated");
                         executor.shutdownNow();
                     } catch (IOException e) {
                         throw new RuntimeException(e);
@@ -98,6 +103,31 @@ public class Language {
                 .filter(Source::isPreferred)
                 .findFirst()
                 .orElseThrow(() -> new RuntimeException("No default source detected"));
+    }
+
+    private void updateReadme() {
+        try (BufferedWriter writer = Files.newBufferedWriter(Path.of("./README.md"), StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING)) {
+            for (Source source: sources) {
+
+                writer.write("# ");
+                writer.write(source.getSource());
+                writer.newLine();
+
+                writer.write("| Word | Translation | Example |");
+                writer.newLine();
+
+                writer.write("|------|-------------|---------|");
+                writer.newLine();
+
+                for (Word word: source.getWords()) {
+                    writer.write(word.toMarkdown());
+                    writer.newLine();
+                }
+            }
+            writer.flush();
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
     }
 
 }
