@@ -26,16 +26,6 @@ public class Main {
             if (Objects.equals(cmd, "q")) return;
             if (cmd == null || cmd.isBlank()) continue;
 
-            if (cmd.equals("p")) {
-                defaultSource.printDefaultSource();
-                continue;
-            }
-
-            if (cmd.equals("w")) {
-                defaultSource.write();
-                continue;
-            }
-
             if (cmd.startsWith("a ")) {
                 try {
                     Word w = parseWordFromInputString(cmd);
@@ -52,9 +42,7 @@ public class Main {
     private static void printCommands() {
         System.out.println("Commands available:");
         System.out.println("a \"mfn\" \"word\" \"translate\" \"example\" : adds new word to the default source");
-        System.out.println("p : prints the default source");
         System.out.println("q : quits the program");
-        System.out.println("w : writes the default source in JSON format");
     }
 
     static Word parseWordFromInputString(String cmd) {

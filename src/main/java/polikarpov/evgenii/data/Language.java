@@ -52,6 +52,7 @@ public class Language {
                 });
 
         printStatistics();
+        write();
     }
 
     public void printStatistics() {
@@ -61,15 +62,7 @@ public class Language {
                 getLanguage(), defaultSource.getSource(), defaultSource.getWords().size());
     }
 
-    public void printDefaultSource() {
-        Source defaultSource = getDefaultSource();
-
-        for (Word word: defaultSource.getWords()) {
-            System.out.println(word);
-        }
-    }
-
-    public void write() {
+    private void write() {
         try (var executor = Executors.newSingleThreadExecutor()) {
             executor.submit(() -> {
                 ObjectMapper objectMapper = new ObjectMapper();

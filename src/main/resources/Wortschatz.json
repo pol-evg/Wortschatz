@@ -513,6 +513,11 @@
     "source" : "Steuererklärung",
     "preferred" : true,
     "words" : [ {
+      "mfn" : "m",
+      "wrd" : "Anspruch",
+      "trn" : "притязание/требование/право",
+      "xmp" : "auf etw Anspruch erheben - претендовать на что-либо"
+    }, {
       "mfn" : "f",
       "wrd" : "Aufwendung",
       "trn" : "затраты",
@@ -521,6 +526,11 @@
       "mfn" : "",
       "wrd" : "ausschöpfen",
       "trn" : "исчерпать",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "bemessen",
+      "trn" : "отмерять",
       "xmp" : ""
     }, {
       "mfn" : "f",
@@ -543,14 +553,39 @@
       "trn" : "пояснение/объяснение",
       "xmp" : ""
     }, {
+      "mfn" : "f",
+      "wrd" : "Ermittlung",
+      "trn" : "расследование",
+      "xmp" : ""
+    }, {
       "mfn" : "",
       "wrd" : "festsetzen",
       "trn" : "устанавливать",
       "xmp" : ""
     }, {
+      "mfn" : "",
+      "wrd" : "hinzurechnen",
+      "trn" : "прибавлять/присовокуплять/причислять",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "lediglich",
+      "trn" : "только/лишь",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "soweit",
+      "trn" : "насколько",
+      "xmp" : ""
+    }, {
       "mfn" : "f",
       "wrd" : "Steuerfestsetzung",
       "trn" : "налоговая фиксация",
+      "xmp" : ""
+    }, {
+      "mfn" : "f",
+      "wrd" : "Unterhaltsverpflichtung",
+      "trn" : "обязанность содержать детей",
       "xmp" : ""
     }, {
       "mfn" : "",
