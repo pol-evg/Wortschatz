@@ -1,10 +1,8 @@
 package polikarpov.evgenii;
 
 import polikarpov.evgenii.data.Language;
-import polikarpov.evgenii.data.Loader;
 import polikarpov.evgenii.data.Word;
 
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
@@ -16,9 +14,9 @@ public class Main {
 
     private static final Pattern newWordPattern = Pattern.compile("\"([^\"]*)\"");
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
 
-        Language defaultSource = Loader.loadDefaultLanguageAndSource();
+        Language defaultSource = Language.loadDefaultLanguageAndSource();
 
         Scanner scanner = new Scanner(System.in);
 
@@ -34,7 +32,7 @@ public class Main {
             }
 
             if (cmd.equals("w")) {
-                defaultSource.writeDefaultSource();
+                defaultSource.write();
                 continue;
             }
 
