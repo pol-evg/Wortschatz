@@ -74,7 +74,7 @@ public class Language {
             executor.submit(() -> {
                 ObjectMapper objectMapper = new ObjectMapper();
                 System.out.println("Saving into " + WORTSCHATZ_JSON);
-                findDictionaryFile(Path.of(".").toFile(), file -> {
+                findDictionaryFile(Path.of("./src").toFile(), file -> {
                     try {
                         objectMapper.writerWithDefaultPrettyPrinter().writeValue(file, this);
                         System.out.println("Saved");
@@ -83,11 +83,6 @@ public class Language {
                         throw new RuntimeException(e);
                     }
                 });
-                try {
-                    objectMapper.writeValue(System.out, this);
-                } catch (IOException e) {
-                    throw new RuntimeException(e);
-                }
             });
         }
     }
