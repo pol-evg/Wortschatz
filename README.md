@@ -105,22 +105,33 @@
 # Steuererklärung
 | Word | Translation | Example |
 |------|-------------|---------|
+|der Abschluss|окончание|Abschluss des Änderungsverfahrens|
 |der Anspruch|притязание/требование/право|auf etw Anspruch erheben - претендовать на что-либо|
+|das Attest|свидетельство|die Atteste|
+|aufbewahren|хранить/сохранять| |
 |die Aufwendung|затраты| |
 |ausschöpfen|исчерпать| |
 |bemessen|отмерять| |
 |die Bemessungsgrundlage|основание для определения размеров чего-либо| |
 |berücksichtigen|учитывать| |
 |Einkünfte|доходы| |
+|einlegen|подавать (JUR)|Einspruch einlegen - выдвинуть возражение/протестовать|
 |der Einspruch|возражение| |
+|erfassen|охватывать| |
 |die Erläuterung|пояснение/объяснение| |
 |die Ermittlung|расследование| |
 |festsetzen|устанавливать| |
+|hinsichtlich|относительно/в отношении| |
 |hinzurechnen|прибавлять/присовокуплять/причислять| |
 |lediglich|только/лишь| |
+|die Leistung|платёж/пособие| |
 |soweit|насколько| |
+|sowohl ... als auch|как ..., так и ...| |
 |die Steuerfestsetzung|налоговая фиксация| |
 |die Unterhaltsverpflichtung|обязанность содержать детей| |
 |verbleibend|оставшийся| |
+|das Verfahren|процесс/производство (JUR)| |
+|die Verfassungsmäßigkeit|конституционность| |
 |vorläufig|временный/предварительный| |
+|der Zuschlag|доплата|die Zuschläge|
 |über etw hinausgehen|выходить за пределы чего-либо| |

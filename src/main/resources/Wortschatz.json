@@ -514,9 +514,24 @@
     "preferred" : true,
     "words" : [ {
       "mfn" : "m",
+      "wrd" : "Abschluss",
+      "trn" : "окончание",
+      "xmp" : "Abschluss des Änderungsverfahrens"
+    }, {
+      "mfn" : "m",
       "wrd" : "Anspruch",
       "trn" : "притязание/требование/право",
       "xmp" : "auf etw Anspruch erheben - претендовать на что-либо"
+    }, {
+      "mfn" : "n",
+      "wrd" : "Attest",
+      "trn" : "свидетельство",
+      "xmp" : "die Atteste"
+    }, {
+      "mfn" : "",
+      "wrd" : "aufbewahren",
+      "trn" : "хранить/сохранять",
+      "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Aufwendung",
@@ -548,9 +563,19 @@
       "trn" : "доходы",
       "xmp" : ""
     }, {
+      "mfn" : "",
+      "wrd" : "einlegen",
+      "trn" : "подавать (JUR)",
+      "xmp" : "Einspruch einlegen - выдвинуть возражение/протестовать"
+    }, {
       "mfn" : "m",
       "wrd" : "Einspruch",
       "trn" : "возражение",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "erfassen",
+      "trn" : "охватывать",
       "xmp" : ""
     }, {
       "mfn" : "f",
@@ -569,6 +594,11 @@
       "xmp" : ""
     }, {
       "mfn" : "",
+      "wrd" : "hinsichtlich",
+      "trn" : "относительно/в отношении",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
       "wrd" : "hinzurechnen",
       "trn" : "прибавлять/присовокуплять/причислять",
       "xmp" : ""
@@ -578,9 +608,19 @@
       "trn" : "только/лишь",
       "xmp" : ""
     }, {
+      "mfn" : "f",
+      "wrd" : "Leistung",
+      "trn" : "платёж/пособие",
+      "xmp" : ""
+    }, {
       "mfn" : "",
       "wrd" : "soweit",
       "trn" : "насколько",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "sowohl ... als auch",
+      "trn" : "как ..., так и ...",
       "xmp" : ""
     }, {
       "mfn" : "f",
@@ -598,10 +638,25 @@
       "trn" : "оставшийся",
       "xmp" : ""
     }, {
+      "mfn" : "n",
+      "wrd" : "Verfahren",
+      "trn" : "процесс/производство (JUR)",
+      "xmp" : ""
+    }, {
+      "mfn" : "f",
+      "wrd" : "Verfassungsmäßigkeit",
+      "trn" : "конституционность",
+      "xmp" : ""
+    }, {
       "mfn" : "",
       "wrd" : "vorläufig",
       "trn" : "временный/предварительный",
       "xmp" : ""
+    }, {
+      "mfn" : "m",
+      "wrd" : "Zuschlag",
+      "trn" : "доплата",
+      "xmp" : "die Zuschläge"
     }, {
       "mfn" : "",
       "wrd" : "über etw hinausgehen",
