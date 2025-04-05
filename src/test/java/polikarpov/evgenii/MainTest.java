@@ -14,17 +14,17 @@ class MainTest {
     public static Stream<Arguments> parseWordFromInputStringData() {
         return Stream.of(
                 Arguments.of("""
-                        a "" "" "" "\"""", false),
+                        a # # #""", false),
                 Arguments.of("""
-                        a "" "abc" "" ""\s""", false),
+                        a #abc #  #""", false),
                 Arguments.of("""
-                        a "" "abc" "def" ""\s""", true),
+                        a #abc # def #\s""", true),
                 Arguments.of("""
-                        a "f" "abc" "def" ""\s""", true),
+                        a f # abc # def #""", true),
                 Arguments.of("""
-                        a "m" "abc" "def" "fhgfj\"""", true),
+                        a m # abc #def # fhgfj""", true),
                 Arguments.of("""
-                        a "" "abc" "def" "dgf\"""", true)
+                        a #abc#def#dgf""", true)
         );
     }
 

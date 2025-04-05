@@ -18,7 +18,7 @@
 |aussagen|высказывать/выражать| |
 |der Bauchgefühl|интуиция| |
 |bedingungslos|безоговорочно| |
-|begreifen/begriff/hat begriffen|понимать/соображать| |
+|begreifen|понимать/соображать|begriff/hat begriffen|
 |der Begriff|понятие| |
 |begründen|обосновывать| |
 |beruhen (auf)|покоиться на|etw beruht auf Gegenseitigkeit - что-либо основывается на взаимности|
@@ -106,14 +106,20 @@
 | Word | Translation | Example |
 |------|-------------|---------|
 |der Abschluss|окончание|Abschluss des Änderungsverfahrens|
+|anführen|приводить/цитировать|die angeführten gesetzlichen Vorschriften|
+|ansehen |рассматривать |..., dass die ... verstoßend angesehen werden|
 |der Anspruch|притязание/требование/право|auf etw Anspruch erheben - претендовать на что-либо|
 |das Attest|свидетельство|die Atteste|
 |aufbewahren|хранить/сохранять| |
+|die Aufhebung |отмена | |
 |die Aufwendung|затраты| |
+|die Auslegung |толкование/интерпретация |verfassungskonforme Aulegung|
 |ausschöpfen|исчерпать| |
 |bemessen|отмерять| |
 |die Bemessungsgrundlage|основание для определения размеров чего-либо| |
 |berücksichtigen|учитывать| |
+|betreffen |касаться |betraf/hat betroffen|
+|bezüglich |относительно/касательно | |
 |Einkünfte|доходы| |
 |einlegen|подавать (JUR)|Einspruch einlegen - выдвинуть возражение/протестовать|
 |der Einspruch|возражение| |
@@ -123,15 +129,24 @@
 |festsetzen|устанавливать| |
 |hinsichtlich|относительно/в отношении| |
 |hinzurechnen|прибавлять/присовокуплять/причислять| |
+|hochrangig|имеющий большее значение|höherrangiges Recht|
+|konform |одинаковый/совпадающий |verfassungskonforme Aulegung|
 |lediglich|только/лишь| |
 |die Leistung|платёж/пособие| |
 |soweit|насколько| |
 |sowohl ... als auch|как ..., так и ...| |
 |die Steuerfestsetzung|налоговая фиксация| |
+|streitig|оспариваемый| |
 |die Unterhaltsverpflichtung|обязанность содержать детей| |
 |verbleibend|оставшийся| |
+|vereinbar|совместимый| |
 |das Verfahren|процесс/производство (JUR)| |
 |die Verfassungsmäßigkeit|конституционность| |
+|der Vermerk |заметка | |
+|verstoßen |нарушать |verstieß/hat verstoßen|
 |vorläufig|временный/предварительный| |
+|die Vorschrift|инструкция/положение|die angeführten gesetzlichen Vorschriften|
+|widrig |противоречащий |verfassungswidrig - противоречащий конституции|
+|der Wortlaut |дословный текст | |
 |der Zuschlag|доплата|die Zuschläge|
 |über etw hinausgehen|выходить за пределы чего-либо| |

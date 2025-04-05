@@ -90,9 +90,9 @@
       "xmp" : ""
     }, {
       "mfn" : "",
-      "wrd" : "begreifen/begriff/hat begriffen",
+      "wrd" : "begreifen",
       "trn" : "понимать/соображать",
-      "xmp" : ""
+      "xmp" : "begriff/hat begriffen"
     }, {
       "mfn" : "m",
       "wrd" : "Begriff",
@@ -518,6 +518,16 @@
       "trn" : "окончание",
       "xmp" : "Abschluss des Änderungsverfahrens"
     }, {
+      "mfn" : "",
+      "wrd" : "anführen",
+      "trn" : "приводить/цитировать",
+      "xmp" : "die angeführten gesetzlichen Vorschriften"
+    }, {
+      "mfn" : "",
+      "wrd" : "ansehen ",
+      "trn" : "рассматривать ",
+      "xmp" : "..., dass die ... verstoßend angesehen werden"
+    }, {
       "mfn" : "m",
       "wrd" : "Anspruch",
       "trn" : "притязание/требование/право",
@@ -534,9 +544,19 @@
       "xmp" : ""
     }, {
       "mfn" : "f",
+      "wrd" : "Aufhebung ",
+      "trn" : "отмена ",
+      "xmp" : null
+    }, {
+      "mfn" : "f",
       "wrd" : "Aufwendung",
       "trn" : "затраты",
       "xmp" : ""
+    }, {
+      "mfn" : "f",
+      "wrd" : "Auslegung ",
+      "trn" : "толкование/интерпретация ",
+      "xmp" : "verfassungskonforme Aulegung"
     }, {
       "mfn" : "",
       "wrd" : "ausschöpfen",
@@ -557,6 +577,16 @@
       "wrd" : "berücksichtigen",
       "trn" : "учитывать",
       "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "betreffen ",
+      "trn" : "касаться ",
+      "xmp" : "betraf/hat betroffen"
+    }, {
+      "mfn" : "",
+      "wrd" : "bezüglich ",
+      "trn" : "относительно/касательно ",
+      "xmp" : null
     }, {
       "mfn" : "",
       "wrd" : "Einkünfte",
@@ -604,6 +634,16 @@
       "xmp" : ""
     }, {
       "mfn" : "",
+      "wrd" : "hochrangig",
+      "trn" : "имеющий большее значение",
+      "xmp" : "höherrangiges Recht"
+    }, {
+      "mfn" : "",
+      "wrd" : "konform ",
+      "trn" : "одинаковый/совпадающий ",
+      "xmp" : "verfassungskonforme Aulegung"
+    }, {
+      "mfn" : "",
       "wrd" : "lediglich",
       "trn" : "только/лишь",
       "xmp" : ""
@@ -628,6 +668,11 @@
       "trn" : "налоговая фиксация",
       "xmp" : ""
     }, {
+      "mfn" : "",
+      "wrd" : "streitig",
+      "trn" : "оспариваемый",
+      "xmp" : ""
+    }, {
       "mfn" : "f",
       "wrd" : "Unterhaltsverpflichtung",
       "trn" : "обязанность содержать детей",
@@ -636,6 +681,11 @@
       "mfn" : "",
       "wrd" : "verbleibend",
       "trn" : "оставшийся",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "vereinbar",
+      "trn" : "совместимый",
       "xmp" : ""
     }, {
       "mfn" : "n",
@@ -648,10 +698,35 @@
       "trn" : "конституционность",
       "xmp" : ""
     }, {
+      "mfn" : "m",
+      "wrd" : "Vermerk ",
+      "trn" : "заметка ",
+      "xmp" : null
+    }, {
+      "mfn" : "",
+      "wrd" : "verstoßen ",
+      "trn" : "нарушать ",
+      "xmp" : "verstieß/hat verstoßen"
+    }, {
       "mfn" : "",
       "wrd" : "vorläufig",
       "trn" : "временный/предварительный",
       "xmp" : ""
+    }, {
+      "mfn" : "f",
+      "wrd" : "Vorschrift",
+      "trn" : "инструкция/положение",
+      "xmp" : "die angeführten gesetzlichen Vorschriften"
+    }, {
+      "mfn" : "",
+      "wrd" : "widrig ",
+      "trn" : "противоречащий ",
+      "xmp" : "verfassungswidrig - противоречащий конституции"
+    }, {
+      "mfn" : "m",
+      "wrd" : "Wortlaut ",
+      "trn" : "дословный текст ",
+      "xmp" : null
     }, {
       "mfn" : "m",
       "wrd" : "Zuschlag",
