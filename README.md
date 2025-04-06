@@ -107,6 +107,7 @@
 # Steuererklärung
 | Word | Translation | Example |
 |------|-------------|---------|
+|der Abruf (die Abrufe(s))|востребование| |
 |der Abschluss (die Abschlüsse)|окончание|Abschluss des Änderungsverfahrens|
 |anfechten (fichtet an / focht an / hat angefochten)|оспаривать| |
 |anführen (führt an / führte an / hat angeführt)|приводить/цитировать|die angeführten gesetzlichen Vorschriften|
@@ -119,8 +120,10 @@
 |die Auslegung  (die Auslegungen)|толкование/интерпретация |verfassungskonforme Aulegung|
 |ausschließen  (schließt aus / schloss aus / hat ausgeschlossen)|исключать |ein Einspruch ist jedoch ausgeschlossen, soweit ...|
 |ausschöpfen (schöpft aus / schöpfte aus / hat ausgeschöpft)|исчерпать| |
+|beabsichtigen (beabsichtigt / beabsichtigte / hat beabsichtigt)|намереваться что-то сделать| |
 |bemessen (bemisst / bemaß / hat bemessen)|отмерять| |
 |die Bemessungsgrundlage (die Bemessungsgrunglagen)|основание для определения размеров чего-либо| |
+|berechtigen (berechtigt / berechtigte / hat ^berechtigt)|давать право/разрешать| |
 |berücksichtigen (berücksichtigt / berücksichtigte / hat berücksichtigt)|учитывать| |
 |betreffen (betrifft / betraf / hat betroffen)|касаться| |
 |bezüglich |относительно/касательно | |
@@ -131,11 +134,13 @@
 |erfassen (erfasst / erfasste / hat erfasst)|охватывать| |
 |die Erläuterung (die Erläuterungen)|пояснение/объяснение| |
 |die Ermittlung (die Ermittlungen)|расследование| |
+|ferner|в дальнейшем/кроме того/еще| |
 |festsetzen (setzt fest / setzte fest / hat festgesetzt)|устанавливать| |
 |der Gegenstand (die Gegenstände)|предмет/вещь/тема| |
 |hinsichtlich|относительно/в отношении| |
 |hinzurechnen (rechnet hinzu / rechnete hinzu / hat hinzugerechnet)|прибавлять/присовокуплять/причислять| |
 |hochrangig|имеющий большее значение|höherrangiges Recht|
+|inwieweit|в какой степени| |
 |die Klage (die Klagen)|жалоба/иск| |
 |konform|одинаковый/совпадающий|verfassungskonforme Aulegung|
 |lediglich|только/лишь| |
@@ -160,3 +165,4 @@
 |zulässig|допустимый| |
 |der Zuschlag (die Zuschläge)|доплата| |
 |über etw hinausgehen|выходить за пределы чего-либо| |
+|übermuttieln (übermittelt / übermittelte / hat übermittelt)|передавать| |

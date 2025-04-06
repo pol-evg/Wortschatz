@@ -2,7 +2,7 @@
   "language" : "German",
   "sources" : [ {
     "source" : "Das agile Mindset",
-    "preferred" : false,
+    "preferred" : true,
     "words" : [ {
       "mfn" : "f",
       "wrd" : "Abkürzung",
@@ -624,8 +624,14 @@
     } ]
   }, {
     "source" : "Steuererklärung",
-    "preferred" : true,
+    "preferred" : false,
     "words" : [ {
+      "mfn" : "m",
+      "wrd" : "Abruf",
+      "frm" : "die Abrufe(s)",
+      "trn" : "востребование",
+      "xmp" : ""
+    }, {
       "mfn" : "m",
       "wrd" : "Abschluss",
       "frm" : "die Abschlüsse",
@@ -699,6 +705,12 @@
       "xmp" : ""
     }, {
       "mfn" : "",
+      "wrd" : "beabsichtigen",
+      "frm" : "beabsichtigt / beabsichtigte / hat beabsichtigt",
+      "trn" : "намереваться что-то сделать",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
       "wrd" : "bemessen",
       "frm" : "bemisst / bemaß / hat bemessen",
       "trn" : "отмерять",
@@ -708,6 +720,12 @@
       "wrd" : "Bemessungsgrundlage",
       "frm" : "die Bemessungsgrunglagen",
       "trn" : "основание для определения размеров чего-либо",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "berechtigen",
+      "frm" : "berechtigt / berechtigte / hat ^berechtigt",
+      "trn" : "давать право/разрешать",
       "xmp" : ""
     }, {
       "mfn" : "",
@@ -771,6 +789,12 @@
       "xmp" : ""
     }, {
       "mfn" : "",
+      "wrd" : "ferner",
+      "frm" : "",
+      "trn" : "в дальнейшем/кроме того/еще",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
       "wrd" : "festsetzen",
       "frm" : "setzt fest / setzte fest / hat festgesetzt",
       "trn" : "устанавливать",
@@ -799,6 +823,12 @@
       "frm" : "",
       "trn" : "имеющий большее значение",
       "xmp" : "höherrangiges Recht"
+    }, {
+      "mfn" : "",
+      "wrd" : "inwieweit",
+      "frm" : "",
+      "trn" : "в какой степени",
+      "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Klage",
@@ -942,6 +972,12 @@
       "wrd" : "über etw hinausgehen",
       "frm" : "",
       "trn" : "выходить за пределы чего-либо",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "übermuttieln",
+      "frm" : "übermittelt / übermittelte / hat übermittelt",
+      "trn" : "передавать",
       "xmp" : ""
     } ]
   } ]
