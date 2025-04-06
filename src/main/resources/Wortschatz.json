@@ -6,506 +6,619 @@
     "words" : [ {
       "mfn" : "f",
       "wrd" : "Abkürzung",
+      "frm" : "die Abkürzungen",
       "trn" : "упрощение",
       "xmp" : "Abkürzungen des Denkens"
     }, {
       "mfn" : "f",
       "wrd" : "Absicht",
+      "frm" : "die Absichten",
       "trn" : "намерение",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "angeblich",
+      "frm" : "",
       "trn" : "мнимый",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "angemessen",
+      "frm" : "",
       "trn" : "соответствующий",
       "xmp" : ""
     }, {
       "mfn" : "n",
       "wrd" : "Anliegen",
+      "frm" : "die Anliegen(s)",
       "trn" : "желание/просьба",
       "xmp" : "ein Anliegen haben - иметь дело к кому-либо"
     }, {
       "mfn" : "f",
       "wrd" : "Annahme",
+      "frm" : "die Annahmen",
       "trn" : "приём/предположение",
       "xmp" : ""
     }, {
       "mfn" : "m",
-      "wrd" : "Ansatz/Ansätze",
+      "wrd" : "Ansatz",
+      "frm" : "die Ansätze",
       "trn" : "подход",
       "xmp" : "Agilität als Ansatz zur Unternehmenssteuerung"
     }, {
       "mfn" : "",
       "wrd" : "anschließend",
+      "frm" : "",
       "trn" : "последующий",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "ansetzen",
+      "frm" : "setzt an / setzte an / hat angesetzt",
       "trn" : "начинать",
       "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Aufnahmefähigkeit",
+      "frm" : "die Aufnahmefächigkeiten",
       "trn" : "вместимость",
       "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Aufstellung",
+      "frm" : "die Aufstellungen",
       "trn" : "постановка/расстановка",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "ausführen",
+      "frm" : "führt aus / führte aus / has ausgeführt",
       "trn" : "излагать",
       "xmp" : "bevor ich weiter ausführe, ..."
     }, {
       "mfn" : "f",
       "wrd" : "Ausgangsbasis",
+      "frm" : "die Ausgangsbasis",
       "trn" : "исходный пункт",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "ausrufen",
+      "frm" : "ruft aus / rief aus / hat ausgerufen",
       "trn" : "объявлять/провозглашать",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "aussagen",
+      "frm" : "sagt aus / sagte aut / hat ausgesagt",
       "trn" : "высказывать/выражать",
       "xmp" : ""
     }, {
-      "mfn" : "m",
+      "mfn" : "n",
       "wrd" : "Bauchgefühl",
+      "frm" : "",
       "trn" : "интуиция",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "bedingungslos",
+      "frm" : "",
       "trn" : "безоговорочно",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "begreifen",
+      "frm" : "begreift / begriff / hat begriffen",
       "trn" : "понимать/соображать",
-      "xmp" : "begriff/hat begriffen"
+      "xmp" : ""
     }, {
       "mfn" : "m",
       "wrd" : "Begriff",
+      "frm" : "die Begriffe(s)",
       "trn" : "понятие",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "begründen",
+      "frm" : "begründet / begründete / hat begründet",
       "trn" : "обосновывать",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "beruhen (auf)",
+      "frm" : "beruht / beruhte / hat beruht",
       "trn" : "покоиться на",
       "xmp" : "etw beruht auf Gegenseitigkeit - что-либо основывается на взаимности"
     }, {
       "mfn" : "",
       "wrd" : "bewerben",
+      "frm" : "bewirbt / bewarb / hat beworben",
       "trn" : "Reklame machen",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "beziehen (sich)",
+      "frm" : "bezient / bezog / hat bezogen",
       "trn" : "ссылаться",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "daher",
+      "frm" : "",
       "trn" : "оттуда",
       "xmp" : "das kommt daher, dass... - это от того, что..."
     }, {
       "mfn" : "",
       "wrd" : "darstellen",
+      "frm" : "stellt dar / stellte dar / hat dargestellt",
       "trn" : "представлять, изображать",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "das lässt sich verschieden",
+      "frm" : "",
       "trn" : "это можно сделать разными способами",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "dazuführen",
+      "frm" : "führt dazu / führte dazu / hat dazugeführt",
       "trn" : "приводить",
       "xmp" : "Diese führt dazu, dass ..."
     }, {
       "mfn" : "",
       "wrd" : "dazwischen",
+      "frm" : "",
       "trn" : "между этим/тем",
       "xmp" : "mit der Hand komme ich dazwischen - я могу рукой пролезть/достать"
     }, {
       "mfn" : "",
       "wrd" : "demnach",
+      "frm" : "",
       "trn" : "соответственно/согласно",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "die Art und Weise",
+      "frm" : "",
       "trn" : "способ",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "durchaus",
+      "frm" : "",
       "trn" : "абсолютно",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "durchdenken",
+      "frm" : "denkt durch / dachte durch / hat durchgedacht",
       "trn" : "продумывать",
       "xmp" : "wohl durchdenken - хорошо обдуманный"
     }, {
       "mfn" : "f",
       "wrd" : "Ebene",
+      "frm" : "die Ebenen",
       "trn" : "уровень",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "einbeziehen",
+      "frm" : "bezient ein / bezog ein / hat einbezogen",
       "trn" : "включать (во что-то)",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "einbringen",
+      "frm" : "bringt ein / brachte ein / hat eingebracht",
       "trn" : "представлять",
       "xmp" : "mochte ich hier einbringen..."
     }, {
       "mfn" : "",
       "wrd" : "eine Entscheidung treffen",
+      "frm" : "",
       "trn" : "принимать решение",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "einführen",
+      "frm" : "führt ein / führte ein / hat eingeführt",
       "trn" : "вводить",
       "xmp" : "ich führe meine Haltung ein"
     }, {
       "mfn" : "",
       "wrd" : "einhergehend",
+      "frm" : "",
       "trn" : "сопровождающий",
       "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Einstellung",
+      "frm" : "die Einstellungen",
       "trn" : "настройка/регулировака",
       "xmp" : "Einstellung des Verstandes"
     }, {
       "mfn" : "m",
       "wrd" : "Eintrag",
+      "frm" : "die Einträge(s)",
       "trn" : "запись",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "entsprechen",
+      "frm" : "entspicht / entsprach / hat entsprochen",
       "trn" : "соответствовать",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "entstehen",
+      "frm" : "entsteht / entstand / ist entstanden",
       "trn" : "возникать",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "erheblich besser",
+      "frm" : "",
       "trn" : "значительно лучше",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "ermöglichen",
+      "frm" : "",
       "trn" : "делать возможным",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "etw ist jdm in Fleisch und Blut übergegangen",
+      "frm" : "",
       "trn" : "стать второй натурой",
       "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Facette",
+      "frm" : "die Facetten",
       "trn" : "грань",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "festgefahren",
+      "frm" : "",
       "trn" : "застрявший (на мёртвой точке)/зашедший в тупик",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "feststellen",
+      "frm" : "stellt fest / stellte fest / hat festgestellt",
       "trn" : "устанавливать/констатировать",
       "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Förderung",
+      "frm" : "die Förderungen",
       "trn" : "поощрение",
       "xmp" : "Focus auf Förderung von selbst organisierten Teams"
     }, {
       "mfn" : "",
-      "wrd" : "gelten/galt/gegolten",
+      "wrd" : "gelten",
+      "frm" : "gilt / galt / hat gegolten",
       "trn" : "быть действительным",
       "xmp" : ""
     }, {
       "mfn" : "m",
       "wrd" : "Glaubenssatz",
+      "frm" : "die Glaubensätze",
       "trn" : "догма",
       "xmp" : "durch soziale Prägungen entstandene Glaubenssätze"
     }, {
       "mfn" : "f",
       "wrd" : "Grundlage",
+      "frm" : "die Grundlagen",
       "trn" : "основа/основание",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "grundlegend",
+      "frm" : "",
       "trn" : "основополагающий",
       "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Haltung",
+      "frm" : "die Haltungen",
       "trn" : "позиция",
       "xmp" : "Agilität als Haltung"
     }, {
       "mfn" : "f",
       "wrd" : "Handlung",
+      "frm" : "die Handlungen",
       "trn" : "действие",
       "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Herangehensweise",
+      "frm" : "die Heransgehensweisen",
       "trn" : "подход (к решению проблемы)",
       "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Herausforderung",
+      "frm" : "die Hrausforderungen",
       "trn" : "вызов",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "hineinfallen",
+      "frm" : "fällt hinein / fiel hinein / ist hineingefallen",
       "trn" : "(по)падать",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "hochfahren",
+      "frm" : "fährt hoch / fuhr hoch / ist hochgefahren",
       "trn" : "подниматься",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "immer noch",
+      "frm" : "",
       "trn" : "всё ещё",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "in gewisser Weise",
+      "frm" : "",
       "trn" : "в известном смысле",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "inhaltlich",
+      "frm" : "",
       "trn" : "по существу",
       "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Lage",
+      "frm" : "die Lagen",
       "trn" : "положение/ситуация",
       "xmp" : ""
     }, {
       "mfn" : "m",
       "wrd" : "Leitfaden",
+      "frm" : "die Leitfäden",
       "trn" : "руководство",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "meiner Meinung nach",
+      "frm" : "",
       "trn" : "по моему мнению",
       "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Nische",
+      "frm" : "die Nischen",
       "trn" : "ниша",
       "xmp" : ""
     }, {
-      "mfn" : "m(f)",
-      "wrd" : "Prophet(in)",
+      "mfn" : "m",
+      "wrd" : "Prophet",
+      "frm" : "die Propheten",
       "trn" : "пророк",
+      "xmp" : ""
+    }, {
+      "mfn" : "f",
+      "wrd" : "Prophetin",
+      "frm" : "die Profetinen",
+      "trn" : "пророк (жен.)",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "prägen",
+      "frm" : "prägt / prägte / hat geprägt",
       "trn" : "формировать",
       "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Prägung",
+      "frm" : "die Prägungen",
       "trn" : "обусловленность",
       "xmp" : "durch soziale Prägungen entstandene Glaubenssätze"
     }, {
       "mfn" : "f",
       "wrd" : "Prämisse",
+      "frm" : "die Prämissen",
       "trn" : "предпосылка",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "raffiniert",
+      "frm" : "",
       "trn" : "изысканный/утонченный/хитрый/коварный",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "rudern",
+      "frm" : "rudert / ruderte / hat gerudert",
       "trn" : "грести",
       "xmp" : ""
     }, {
       "mfn" : "n",
       "wrd" : "Rückgrat",
-      "trn" : "позвоночник",
+      "frm" : "die Rückgrate",
+      "trn" : "хребет",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "scheitern",
+      "frm" : "scheitert / scheiterte / ist gescheitert",
       "trn" : "потерпеть неудачу",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "sich Dat etw Gen bewusst sein",
+      "frm" : "",
       "trn" : "знать что-либо",
       "xmp" : ""
     }, {
       "mfn" : "n",
       "wrd" : "Sortiment",
+      "frm" : "",
       "trn" : "ассортимент",
       "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Spürnase",
+      "frm" : "",
       "trn" : "нюх/проницательность",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "trügerisch",
+      "frm" : "",
       "trn" : "обманчивый",
       "xmp" : ""
     }, {
       "mfn" : "n",
       "wrd" : "Umfeld",
+      "frm" : "die Umfelde(s)",
       "trn" : "окружение",
       "xmp" : ""
     }, {
       "mfn" : "m",
       "wrd" : "Umgang (mit jdm)",
+      "frm" : "die Umgange(s)",
       "trn" : "общение (с людьми)/обращение (с прибором)",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "und zwar",
+      "frm" : "",
       "trn" : "а именно",
       "xmp" : ""
     }, {
-      "mfn" : "f(m)",
-      "wrd" : "Verbündete(r)",
-      "trn" : "союзница/союзник",
+      "mfn" : "m",
+      "wrd" : "Verbündeter",
+      "frm" : "die Verbündeten",
+      "trn" : "союзник",
+      "xmp" : ""
+    }, {
+      "mfn" : "f",
+      "wrd" : "Verbündete",
+      "frm" : "die Verbündeten",
+      "trn" : "союзница",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "verlangen",
+      "frm" : "verlangt / verlangte / hat verlangt",
       "trn" : "требовать",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "verschärfen",
+      "frm" : "verschärft / verschärfte / hat verschärft",
       "trn" : "ужесточать/обостряться",
       "xmp" : ""
     }, {
       "mfn" : "m",
       "wrd" : "Verstand",
+      "frm" : "die Verstande(s)",
       "trn" : "разум",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "verzichten (auf)",
+      "frm" : "verzichtet / verzichtete / hat verzichtet",
       "trn" : "отказываться",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "vorantreiben",
+      "frm" : "treibt voran / trieb voran / hat vornagetrieben",
       "trn" : "ускорять/форсировать",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "vorgehen",
+      "frm" : "geht vor / ging vor / ist vorgegangen",
       "trn" : "происходить/действовать/поступать/выходить",
       "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Vorgehensweise",
+      "frm" : "die Vorgehensweisen",
       "trn" : "образ действия",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "vorherrschen",
+      "frm" : "herrscht vor / herrschte vor / hat vorgeherrscht",
       "trn" : "преобладать",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "weitgehend",
+      "frm" : "",
       "trn" : "далекоидущий",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "wesentlich",
+      "frm" : "",
       "trn" : "существенный",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "widerlegen",
+      "frm" : "widerlegt / widerlegte / hat widerlegt",
       "trn" : "опровергать",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "willkürlich",
+      "frm" : "",
       "trn" : "произвольно",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "wirksam",
+      "frm" : "",
       "trn" : "действенный",
       "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Zusammenstellung",
+      "frm" : "die Zusammenstellungen",
       "trn" : "состав/список/сборник",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "zwangsläufig",
+      "frm" : "",
       "trn" : "неизбежный",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "über die Zeit des <Gen> hinaus",
+      "frm" : "",
       "trn" : "по прошествии ч.-л.",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "überhaupt",
+      "frm" : "",
       "trn" : "вообще",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "übersehen",
+      "frm" : "übersieht / übersah / hat übersehen",
       "trn" : "не замечать",
       "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Übertreibung",
+      "frm" : "",
       "trn" : "преувеличение",
       "xmp" : ""
     } ]
@@ -515,226 +628,319 @@
     "words" : [ {
       "mfn" : "m",
       "wrd" : "Abschluss",
+      "frm" : "die Abschlüsse",
       "trn" : "окончание",
       "xmp" : "Abschluss des Änderungsverfahrens"
     }, {
       "mfn" : "",
+      "wrd" : "anfechten",
+      "frm" : "fichtet an / focht an / hat angefochten",
+      "trn" : "оспаривать",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
       "wrd" : "anführen",
+      "frm" : "führt an / führte an / hat angeführt",
       "trn" : "приводить/цитировать",
       "xmp" : "die angeführten gesetzlichen Vorschriften"
     }, {
       "mfn" : "",
-      "wrd" : "ansehen ",
-      "trn" : "рассматривать ",
+      "wrd" : "ansehen",
+      "frm" : "sieht an / sah an / hat angesehen",
+      "trn" : "рассматривать",
       "xmp" : "..., dass die ... verstoßend angesehen werden"
     }, {
       "mfn" : "m",
       "wrd" : "Anspruch",
+      "frm" : "die Ansprüche",
       "trn" : "притязание/требование/право",
       "xmp" : "auf etw Anspruch erheben - претендовать на что-либо"
     }, {
       "mfn" : "n",
       "wrd" : "Attest",
+      "frm" : "die Atteste(s)",
       "trn" : "свидетельство",
-      "xmp" : "die Atteste"
+      "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "aufbewahren",
+      "frm" : "bewahrt auf / bewahrte auf / hat aufbewahrt",
       "trn" : "хранить/сохранять",
       "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Aufhebung ",
+      "frm" : "die Aufhebungen",
       "trn" : "отмена ",
       "xmp" : null
     }, {
       "mfn" : "f",
       "wrd" : "Aufwendung",
+      "frm" : "die Aufwendungen",
       "trn" : "затраты",
       "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Auslegung ",
+      "frm" : "die Auslegungen",
       "trn" : "толкование/интерпретация ",
       "xmp" : "verfassungskonforme Aulegung"
     }, {
       "mfn" : "",
+      "wrd" : "ausschließen ",
+      "frm" : "schließt aus / schloss aus / hat ausgeschlossen",
+      "trn" : "исключать ",
+      "xmp" : "ein Einspruch ist jedoch ausgeschlossen, soweit ..."
+    }, {
+      "mfn" : "",
       "wrd" : "ausschöpfen",
+      "frm" : "schöpft aus / schöpfte aus / hat ausgeschöpft",
       "trn" : "исчерпать",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "bemessen",
+      "frm" : "bemisst / bemaß / hat bemessen",
       "trn" : "отмерять",
       "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Bemessungsgrundlage",
+      "frm" : "die Bemessungsgrunglagen",
       "trn" : "основание для определения размеров чего-либо",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "berücksichtigen",
+      "frm" : "berücksichtigt / berücksichtigte / hat berücksichtigt",
       "trn" : "учитывать",
       "xmp" : ""
     }, {
       "mfn" : "",
-      "wrd" : "betreffen ",
-      "trn" : "касаться ",
-      "xmp" : "betraf/hat betroffen"
+      "wrd" : "betreffen",
+      "frm" : "betrifft / betraf / hat betroffen",
+      "trn" : "касаться",
+      "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "bezüglich ",
+      "frm" : "",
       "trn" : "относительно/касательно ",
       "xmp" : null
     }, {
       "mfn" : "",
       "wrd" : "Einkünfte",
+      "frm" : "",
       "trn" : "доходы",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "einlegen",
+      "frm" : "legt ein / leget ein / hat eingelegt",
       "trn" : "подавать (JUR)",
       "xmp" : "Einspruch einlegen - выдвинуть возражение/протестовать"
     }, {
+      "mfn" : "",
+      "wrd" : "einreichen",
+      "frm" : "reicht ein / reichte ein / hat eingereicht",
+      "trn" : "подавать",
+      "xmp" : "eine Beschwerde einreichen - подать жалобу"
+    }, {
       "mfn" : "m",
       "wrd" : "Einspruch",
+      "frm" : "die Einspuche(s)",
       "trn" : "возражение",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "erfassen",
+      "frm" : "erfasst / erfasste / hat erfasst",
       "trn" : "охватывать",
       "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Erläuterung",
+      "frm" : "die Erläuterungen",
       "trn" : "пояснение/объяснение",
       "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Ermittlung",
+      "frm" : "die Ermittlungen",
       "trn" : "расследование",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "festsetzen",
+      "frm" : "setzt fest / setzte fest / hat festgesetzt",
       "trn" : "устанавливать",
+      "xmp" : ""
+    }, {
+      "mfn" : "m",
+      "wrd" : "Gegenstand",
+      "frm" : "die Gegenstände",
+      "trn" : "предмет/вещь/тема",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "hinsichtlich",
+      "frm" : "",
       "trn" : "относительно/в отношении",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "hinzurechnen",
+      "frm" : "rechnet hinzu / rechnete hinzu / hat hinzugerechnet",
       "trn" : "прибавлять/присовокуплять/причислять",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "hochrangig",
+      "frm" : "",
       "trn" : "имеющий большее значение",
       "xmp" : "höherrangiges Recht"
     }, {
+      "mfn" : "f",
+      "wrd" : "Klage",
+      "frm" : "die Klagen",
+      "trn" : "жалоба/иск",
+      "xmp" : null
+    }, {
       "mfn" : "",
-      "wrd" : "konform ",
-      "trn" : "одинаковый/совпадающий ",
+      "wrd" : "konform",
+      "frm" : "",
+      "trn" : "одинаковый/совпадающий",
       "xmp" : "verfassungskonforme Aulegung"
     }, {
       "mfn" : "",
       "wrd" : "lediglich",
+      "frm" : "",
       "trn" : "только/лишь",
       "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Leistung",
+      "frm" : "die Leistungen",
       "trn" : "платёж/пособие",
       "xmp" : ""
     }, {
+      "mfn" : "f",
+      "wrd" : "Niederschrift",
+      "frm" : "die Neiderschriften",
+      "trn" : "запись/протокол",
+      "xmp" : null
+    }, {
       "mfn" : "",
       "wrd" : "soweit",
+      "frm" : "",
       "trn" : "насколько",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "sowohl ... als auch",
+      "frm" : "",
       "trn" : "как ..., так и ...",
       "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Steuerfestsetzung",
+      "frm" : "die Steuerfestsetzungen",
       "trn" : "налоговая фиксация",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "streitig",
+      "frm" : "",
       "trn" : "оспариваемый",
       "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Unterhaltsverpflichtung",
+      "frm" : "",
       "trn" : "обязанность содержать детей",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "verbleibend",
+      "frm" : "",
       "trn" : "оставшийся",
       "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "vereinbar",
+      "frm" : "",
       "trn" : "совместимый",
       "xmp" : ""
     }, {
       "mfn" : "n",
       "wrd" : "Verfahren",
+      "frm" : "die Verfahren(s)",
       "trn" : "процесс/производство (JUR)",
       "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Verfassungsmäßigkeit",
+      "frm" : "",
       "trn" : "конституционность",
       "xmp" : ""
     }, {
       "mfn" : "m",
-      "wrd" : "Vermerk ",
-      "trn" : "заметка ",
+      "wrd" : "Vermerk",
+      "frm" : "die Vermerke(s)",
+      "trn" : "заметка",
       "xmp" : null
     }, {
       "mfn" : "",
-      "wrd" : "verstoßen ",
-      "trn" : "нарушать ",
-      "xmp" : "verstieß/hat verstoßen"
+      "wrd" : "verstoßen",
+      "frm" : "verstößt / verstieß / hat verstoßen",
+      "trn" : "нарушать",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "vorbezeichnet",
+      "frm" : "",
+      "trn" : "предопределённый",
+      "xmp" : null
     }, {
       "mfn" : "",
       "wrd" : "vorläufig",
+      "frm" : "",
       "trn" : "временный/предварительный",
       "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Vorschrift",
+      "frm" : "die Vorschriften",
       "trn" : "инструкция/положение",
       "xmp" : "die angeführten gesetzlichen Vorschriften"
     }, {
       "mfn" : "",
-      "wrd" : "widrig ",
-      "trn" : "противоречащий ",
+      "wrd" : "widrig",
+      "frm" : "",
+      "trn" : "противоречащий",
       "xmp" : "verfassungswidrig - противоречащий конституции"
     }, {
       "mfn" : "m",
-      "wrd" : "Wortlaut ",
-      "trn" : "дословный текст ",
+      "wrd" : "Wortlaut",
+      "frm" : "die Wortlaute(s)",
+      "trn" : "дословный текст",
+      "xmp" : null
+    }, {
+      "mfn" : "",
+      "wrd" : "zulässig",
+      "frm" : "",
+      "trn" : "допустимый",
       "xmp" : null
     }, {
       "mfn" : "m",
       "wrd" : "Zuschlag",
+      "frm" : "die Zuschläge",
       "trn" : "доплата",
-      "xmp" : "die Zuschläge"
+      "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "über etw hinausgehen",
+      "frm" : "",
       "trn" : "выходить за пределы чего-либо",
       "xmp" : ""
     } ]

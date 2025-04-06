@@ -6,6 +6,7 @@ import com.fasterxml.jackson.annotation.JsonValue;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import org.apache.commons.lang3.StringUtils;
 
 @Data
 @AllArgsConstructor
@@ -21,9 +22,7 @@ public class Word implements Comparable<Word> {
 
         UNDEFINED(""),
         MASCULINE("m"),
-        MASCULINE_AND_FEMININE("m(f)"),
         FEMININE("f"),
-        FEMININE_AND_MASCULINE("f(m)"),
         NEUTRAL("n")
         ;
 
@@ -38,9 +37,7 @@ public class Word implements Comparable<Word> {
             if (value == null || value.isEmpty()) return UNDEFINED;
             return switch (value) {
                 case "m" -> MASCULINE;
-                case "m(f)" -> MASCULINE_AND_FEMININE;
                 case "f" -> FEMININE;
-                case "f(m)" -> FEMININE_AND_MASCULINE;
                 case "n" -> NEUTRAL;
                 default -> UNDEFINED;
             };
@@ -58,17 +55,20 @@ public class Word implements Comparable<Word> {
     @JsonProperty("wrd")
     private String value;
 
+    @JsonProperty("frm")
+    private String forms;
+
     @JsonProperty("trn")
     private String translation;
 
     @JsonProperty("xmp")
     private String example;
 
-    public static Word ofConsoleInput(String mfn, String value, String translation, String example) {
+    public static Word ofConsoleInput(String mfn, String value, String forms, String translation, String example) {
         if (value == null || value.isBlank() || translation == null || translation.isBlank()) {
             throw new RuntimeException("Value and translation can not be blank");
         }
-        return new Word(MFN.forValue(mfn), value, translation, example);
+        return new Word(MFN.forValue(mfn), value, forms, translation, example);
     }
 
     @Override
@@ -77,11 +77,14 @@ public class Word implements Comparable<Word> {
         switch (mfn) {
             case FEMININE -> stringBuilder.append("die ");
             case MASCULINE -> stringBuilder.append("der ");
-            case FEMININE_AND_MASCULINE -> stringBuilder.append("die(der) ");
-            case MASCULINE_AND_FEMININE -> stringBuilder.append("der(die) ");
             case NEUTRAL -> stringBuilder.append("das ");
         }
         stringBuilder.append(value);
+        if (StringUtils.isNotBlank(forms)) {
+            stringBuilder.append(" (");
+            stringBuilder.append(forms);
+            stringBuilder.append(')');
+        }
         stringBuilder.append(": ");
         stringBuilder.append(translation);
         if (example != null && !example.isBlank()) {
@@ -98,11 +101,14 @@ public class Word implements Comparable<Word> {
         switch (mfn) {
             case FEMININE -> stringBuilder.append("die ");
             case MASCULINE -> stringBuilder.append("der ");
-            case FEMININE_AND_MASCULINE -> stringBuilder.append("die(der) ");
-            case MASCULINE_AND_FEMININE -> stringBuilder.append("der(die) ");
             case NEUTRAL -> stringBuilder.append("das ");
         }
         stringBuilder.append(value);
+        if (StringUtils.isNotBlank(forms)) {
+            stringBuilder.append(" (");
+            stringBuilder.append(forms);
+            stringBuilder.append(')');
+        }
         stringBuilder.append('|');
         stringBuilder.append(translation);
         stringBuilder.append('|');

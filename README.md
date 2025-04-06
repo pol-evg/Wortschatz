@@ -1,152 +1,162 @@
 # Das agile Mindset
 | Word | Translation | Example |
 |------|-------------|---------|
-|die Abkürzung|упрощение|Abkürzungen des Denkens|
-|die Absicht|намерение| |
+|die Abkürzung (die Abkürzungen)|упрощение|Abkürzungen des Denkens|
+|die Absicht (die Absichten)|намерение| |
 |angeblich|мнимый| |
 |angemessen|соответствующий| |
-|das Anliegen|желание/просьба|ein Anliegen haben - иметь дело к кому-либо|
-|die Annahme|приём/предположение| |
-|der Ansatz/Ansätze|подход|Agilität als Ansatz zur Unternehmenssteuerung|
+|das Anliegen (die Anliegen(s))|желание/просьба|ein Anliegen haben - иметь дело к кому-либо|
+|die Annahme (die Annahmen)|приём/предположение| |
+|der Ansatz (die Ansätze)|подход|Agilität als Ansatz zur Unternehmenssteuerung|
 |anschließend|последующий| |
-|ansetzen|начинать| |
-|die Aufnahmefähigkeit|вместимость| |
-|die Aufstellung|постановка/расстановка| |
-|ausführen|излагать|bevor ich weiter ausführe, ...|
-|die Ausgangsbasis|исходный пункт| |
-|ausrufen|объявлять/провозглашать| |
-|aussagen|высказывать/выражать| |
-|der Bauchgefühl|интуиция| |
+|ansetzen (setzt an / setzte an / hat angesetzt)|начинать| |
+|die Aufnahmefähigkeit (die Aufnahmefächigkeiten)|вместимость| |
+|die Aufstellung (die Aufstellungen)|постановка/расстановка| |
+|ausführen (führt aus / führte aus / has ausgeführt)|излагать|bevor ich weiter ausführe, ...|
+|die Ausgangsbasis (die Ausgangsbasis)|исходный пункт| |
+|ausrufen (ruft aus / rief aus / hat ausgerufen)|объявлять/провозглашать| |
+|aussagen (sagt aus / sagte aut / hat ausgesagt)|высказывать/выражать| |
+|das Bauchgefühl|интуиция| |
 |bedingungslos|безоговорочно| |
-|begreifen|понимать/соображать|begriff/hat begriffen|
-|der Begriff|понятие| |
-|begründen|обосновывать| |
-|beruhen (auf)|покоиться на|etw beruht auf Gegenseitigkeit - что-либо основывается на взаимности|
-|bewerben|Reklame machen| |
-|beziehen (sich)|ссылаться| |
+|begreifen (begreift / begriff / hat begriffen)|понимать/соображать| |
+|der Begriff (die Begriffe(s))|понятие| |
+|begründen (begründet / begründete / hat begründet)|обосновывать| |
+|beruhen (auf) (beruht / beruhte / hat beruht)|покоиться на|etw beruht auf Gegenseitigkeit - что-либо основывается на взаимности|
+|bewerben (bewirbt / bewarb / hat beworben)|Reklame machen| |
+|beziehen (sich) (bezient / bezog / hat bezogen)|ссылаться| |
 |daher|оттуда|das kommt daher, dass... - это от того, что...|
-|darstellen|представлять, изображать| |
+|darstellen (stellt dar / stellte dar / hat dargestellt)|представлять, изображать| |
 |das lässt sich verschieden|это можно сделать разными способами| |
-|dazuführen|приводить|Diese führt dazu, dass ...|
+|dazuführen (führt dazu / führte dazu / hat dazugeführt)|приводить|Diese führt dazu, dass ...|
 |dazwischen|между этим/тем|mit der Hand komme ich dazwischen - я могу рукой пролезть/достать|
 |demnach|соответственно/согласно| |
 |die Art und Weise|способ| |
 |durchaus|абсолютно| |
-|durchdenken|продумывать|wohl durchdenken - хорошо обдуманный|
-|die Ebene|уровень| |
-|einbeziehen|включать (во что-то)| |
-|einbringen|представлять|mochte ich hier einbringen...|
+|durchdenken (denkt durch / dachte durch / hat durchgedacht)|продумывать|wohl durchdenken - хорошо обдуманный|
+|die Ebene (die Ebenen)|уровень| |
+|einbeziehen (bezient ein / bezog ein / hat einbezogen)|включать (во что-то)| |
+|einbringen (bringt ein / brachte ein / hat eingebracht)|представлять|mochte ich hier einbringen...|
 |eine Entscheidung treffen|принимать решение| |
-|einführen|вводить|ich führe meine Haltung ein|
+|einführen (führt ein / führte ein / hat eingeführt)|вводить|ich führe meine Haltung ein|
 |einhergehend|сопровождающий| |
-|die Einstellung|настройка/регулировака|Einstellung des Verstandes|
-|der Eintrag|запись| |
-|entsprechen|соответствовать| |
-|entstehen|возникать| |
+|die Einstellung (die Einstellungen)|настройка/регулировака|Einstellung des Verstandes|
+|der Eintrag (die Einträge(s))|запись| |
+|entsprechen (entspicht / entsprach / hat entsprochen)|соответствовать| |
+|entstehen (entsteht / entstand / ist entstanden)|возникать| |
 |erheblich besser|значительно лучше| |
 |ermöglichen|делать возможным| |
 |etw ist jdm in Fleisch und Blut übergegangen|стать второй натурой| |
-|die Facette|грань| |
+|die Facette (die Facetten)|грань| |
 |festgefahren|застрявший (на мёртвой точке)/зашедший в тупик| |
-|feststellen|устанавливать/констатировать| |
-|die Förderung|поощрение|Focus auf Förderung von selbst organisierten Teams|
-|gelten/galt/gegolten|быть действительным| |
-|der Glaubenssatz|догма|durch soziale Prägungen entstandene Glaubenssätze|
-|die Grundlage|основа/основание| |
+|feststellen (stellt fest / stellte fest / hat festgestellt)|устанавливать/констатировать| |
+|die Förderung (die Förderungen)|поощрение|Focus auf Förderung von selbst organisierten Teams|
+|gelten (gilt / galt / hat gegolten)|быть действительным| |
+|der Glaubenssatz (die Glaubensätze)|догма|durch soziale Prägungen entstandene Glaubenssätze|
+|die Grundlage (die Grundlagen)|основа/основание| |
 |grundlegend|основополагающий| |
-|die Haltung|позиция|Agilität als Haltung|
-|die Handlung|действие| |
-|die Herangehensweise|подход (к решению проблемы)| |
-|die Herausforderung|вызов| |
-|hineinfallen|(по)падать| |
-|hochfahren|подниматься| |
+|die Haltung (die Haltungen)|позиция|Agilität als Haltung|
+|die Handlung (die Handlungen)|действие| |
+|die Herangehensweise (die Heransgehensweisen)|подход (к решению проблемы)| |
+|die Herausforderung (die Hrausforderungen)|вызов| |
+|hineinfallen (fällt hinein / fiel hinein / ist hineingefallen)|(по)падать| |
+|hochfahren (fährt hoch / fuhr hoch / ist hochgefahren)|подниматься| |
 |immer noch|всё ещё| |
 |in gewisser Weise|в известном смысле| |
 |inhaltlich|по существу| |
-|die Lage|положение/ситуация| |
-|der Leitfaden|руководство| |
+|die Lage (die Lagen)|положение/ситуация| |
+|der Leitfaden (die Leitfäden)|руководство| |
 |meiner Meinung nach|по моему мнению| |
-|die Nische|ниша| |
-|der(die) Prophet(in)|пророк| |
-|prägen|формировать| |
-|die Prägung|обусловленность|durch soziale Prägungen entstandene Glaubenssätze|
-|die Prämisse|предпосылка| |
+|die Nische (die Nischen)|ниша| |
+|der Prophet (die Propheten)|пророк| |
+|die Prophetin (die Profetinen)|пророк (жен.)| |
+|prägen (prägt / prägte / hat geprägt)|формировать| |
+|die Prägung (die Prägungen)|обусловленность|durch soziale Prägungen entstandene Glaubenssätze|
+|die Prämisse (die Prämissen)|предпосылка| |
 |raffiniert|изысканный/утонченный/хитрый/коварный| |
-|rudern|грести| |
-|das Rückgrat|позвоночник| |
-|scheitern|потерпеть неудачу| |
+|rudern (rudert / ruderte / hat gerudert)|грести| |
+|das Rückgrat (die Rückgrate)|хребет| |
+|scheitern (scheitert / scheiterte / ist gescheitert)|потерпеть неудачу| |
 |sich Dat etw Gen bewusst sein|знать что-либо| |
 |das Sortiment|ассортимент| |
 |die Spürnase|нюх/проницательность| |
 |trügerisch|обманчивый| |
-|das Umfeld|окружение| |
-|der Umgang (mit jdm)|общение (с людьми)/обращение (с прибором)| |
+|das Umfeld (die Umfelde(s))|окружение| |
+|der Umgang (mit jdm) (die Umgange(s))|общение (с людьми)/обращение (с прибором)| |
 |und zwar|а именно| |
-|die(der) Verbündete(r)|союзница/союзник| |
-|verlangen|требовать| |
-|verschärfen|ужесточать/обостряться| |
-|der Verstand|разум| |
-|verzichten (auf)|отказываться| |
-|vorantreiben|ускорять/форсировать| |
-|vorgehen|происходить/действовать/поступать/выходить| |
-|die Vorgehensweise|образ действия| |
-|vorherrschen|преобладать| |
+|der Verbündeter (die Verbündeten)|союзник| |
+|die Verbündete (die Verbündeten)|союзница| |
+|verlangen (verlangt / verlangte / hat verlangt)|требовать| |
+|verschärfen (verschärft / verschärfte / hat verschärft)|ужесточать/обостряться| |
+|der Verstand (die Verstande(s))|разум| |
+|verzichten (auf) (verzichtet / verzichtete / hat verzichtet)|отказываться| |
+|vorantreiben (treibt voran / trieb voran / hat vornagetrieben)|ускорять/форсировать| |
+|vorgehen (geht vor / ging vor / ist vorgegangen)|происходить/действовать/поступать/выходить| |
+|die Vorgehensweise (die Vorgehensweisen)|образ действия| |
+|vorherrschen (herrscht vor / herrschte vor / hat vorgeherrscht)|преобладать| |
 |weitgehend|далекоидущий| |
 |wesentlich|существенный| |
-|widerlegen|опровергать| |
+|widerlegen (widerlegt / widerlegte / hat widerlegt)|опровергать| |
 |willkürlich|произвольно| |
 |wirksam|действенный| |
-|die Zusammenstellung|состав/список/сборник| |
+|die Zusammenstellung (die Zusammenstellungen)|состав/список/сборник| |
 |zwangsläufig|неизбежный| |
 |über die Zeit des <Gen> hinaus|по прошествии ч.-л.| |
 |überhaupt|вообще| |
-|übersehen|не замечать| |
+|übersehen (übersieht / übersah / hat übersehen)|не замечать| |
 |die Übertreibung|преувеличение| |
 # Steuererklärung
 | Word | Translation | Example |
 |------|-------------|---------|
-|der Abschluss|окончание|Abschluss des Änderungsverfahrens|
-|anführen|приводить/цитировать|die angeführten gesetzlichen Vorschriften|
-|ansehen |рассматривать |..., dass die ... verstoßend angesehen werden|
-|der Anspruch|притязание/требование/право|auf etw Anspruch erheben - претендовать на что-либо|
-|das Attest|свидетельство|die Atteste|
-|aufbewahren|хранить/сохранять| |
-|die Aufhebung |отмена | |
-|die Aufwendung|затраты| |
-|die Auslegung |толкование/интерпретация |verfassungskonforme Aulegung|
-|ausschöpfen|исчерпать| |
-|bemessen|отмерять| |
-|die Bemessungsgrundlage|основание для определения размеров чего-либо| |
-|berücksichtigen|учитывать| |
-|betreffen |касаться |betraf/hat betroffen|
+|der Abschluss (die Abschlüsse)|окончание|Abschluss des Änderungsverfahrens|
+|anfechten (fichtet an / focht an / hat angefochten)|оспаривать| |
+|anführen (führt an / führte an / hat angeführt)|приводить/цитировать|die angeführten gesetzlichen Vorschriften|
+|ansehen (sieht an / sah an / hat angesehen)|рассматривать|..., dass die ... verstoßend angesehen werden|
+|der Anspruch (die Ansprüche)|притязание/требование/право|auf etw Anspruch erheben - претендовать на что-либо|
+|das Attest (die Atteste(s))|свидетельство| |
+|aufbewahren (bewahrt auf / bewahrte auf / hat aufbewahrt)|хранить/сохранять| |
+|die Aufhebung  (die Aufhebungen)|отмена | |
+|die Aufwendung (die Aufwendungen)|затраты| |
+|die Auslegung  (die Auslegungen)|толкование/интерпретация |verfassungskonforme Aulegung|
+|ausschließen  (schließt aus / schloss aus / hat ausgeschlossen)|исключать |ein Einspruch ist jedoch ausgeschlossen, soweit ...|
+|ausschöpfen (schöpft aus / schöpfte aus / hat ausgeschöpft)|исчерпать| |
+|bemessen (bemisst / bemaß / hat bemessen)|отмерять| |
+|die Bemessungsgrundlage (die Bemessungsgrunglagen)|основание для определения размеров чего-либо| |
+|berücksichtigen (berücksichtigt / berücksichtigte / hat berücksichtigt)|учитывать| |
+|betreffen (betrifft / betraf / hat betroffen)|касаться| |
 |bezüglich |относительно/касательно | |
 |Einkünfte|доходы| |
-|einlegen|подавать (JUR)|Einspruch einlegen - выдвинуть возражение/протестовать|
-|der Einspruch|возражение| |
-|erfassen|охватывать| |
-|die Erläuterung|пояснение/объяснение| |
-|die Ermittlung|расследование| |
-|festsetzen|устанавливать| |
+|einlegen (legt ein / leget ein / hat eingelegt)|подавать (JUR)|Einspruch einlegen - выдвинуть возражение/протестовать|
+|einreichen (reicht ein / reichte ein / hat eingereicht)|подавать|eine Beschwerde einreichen - подать жалобу|
+|der Einspruch (die Einspuche(s))|возражение| |
+|erfassen (erfasst / erfasste / hat erfasst)|охватывать| |
+|die Erläuterung (die Erläuterungen)|пояснение/объяснение| |
+|die Ermittlung (die Ermittlungen)|расследование| |
+|festsetzen (setzt fest / setzte fest / hat festgesetzt)|устанавливать| |
+|der Gegenstand (die Gegenstände)|предмет/вещь/тема| |
 |hinsichtlich|относительно/в отношении| |
-|hinzurechnen|прибавлять/присовокуплять/причислять| |
+|hinzurechnen (rechnet hinzu / rechnete hinzu / hat hinzugerechnet)|прибавлять/присовокуплять/причислять| |
 |hochrangig|имеющий большее значение|höherrangiges Recht|
-|konform |одинаковый/совпадающий |verfassungskonforme Aulegung|
+|die Klage (die Klagen)|жалоба/иск| |
+|konform|одинаковый/совпадающий|verfassungskonforme Aulegung|
 |lediglich|только/лишь| |
-|die Leistung|платёж/пособие| |
+|die Leistung (die Leistungen)|платёж/пособие| |
+|die Niederschrift (die Neiderschriften)|запись/протокол| |
 |soweit|насколько| |
 |sowohl ... als auch|как ..., так и ...| |
-|die Steuerfestsetzung|налоговая фиксация| |
+|die Steuerfestsetzung (die Steuerfestsetzungen)|налоговая фиксация| |
 |streitig|оспариваемый| |
 |die Unterhaltsverpflichtung|обязанность содержать детей| |
 |verbleibend|оставшийся| |
 |vereinbar|совместимый| |
-|das Verfahren|процесс/производство (JUR)| |
+|das Verfahren (die Verfahren(s))|процесс/производство (JUR)| |
 |die Verfassungsmäßigkeit|конституционность| |
-|der Vermerk |заметка | |
-|verstoßen |нарушать |verstieß/hat verstoßen|
+|der Vermerk (die Vermerke(s))|заметка| |
+|verstoßen (verstößt / verstieß / hat verstoßen)|нарушать| |
+|vorbezeichnet|предопределённый| |
 |vorläufig|временный/предварительный| |
-|die Vorschrift|инструкция/положение|die angeführten gesetzlichen Vorschriften|
-|widrig |противоречащий |verfassungswidrig - противоречащий конституции|
-|der Wortlaut |дословный текст | |
-|der Zuschlag|доплата|die Zuschläge|
+|die Vorschrift (die Vorschriften)|инструкция/положение|die angeführten gesetzlichen Vorschriften|
+|widrig|противоречащий|verfassungswidrig - противоречащий конституции|
+|der Wortlaut (die Wortlaute(s))|дословный текст| |
+|zulässig|допустимый| |
+|der Zuschlag (die Zuschläge)|доплата| |
 |über etw hinausgehen|выходить за пределы чего-либо| |
