@@ -672,7 +672,7 @@
       "wrd" : "Aufhebung ",
       "frm" : "die Aufhebungen",
       "trn" : "отмена ",
-      "xmp" : null
+      "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Aufwendung",
@@ -726,7 +726,7 @@
       "wrd" : "bezüglich ",
       "frm" : "",
       "trn" : "относительно/касательно ",
-      "xmp" : null
+      "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "Einkünfte",
@@ -804,7 +804,7 @@
       "wrd" : "Klage",
       "frm" : "die Klagen",
       "trn" : "жалоба/иск",
-      "xmp" : null
+      "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "konform",
@@ -828,7 +828,7 @@
       "wrd" : "Niederschrift",
       "frm" : "die Neiderschriften",
       "trn" : "запись/протокол",
-      "xmp" : null
+      "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "soweit",
@@ -888,7 +888,7 @@
       "wrd" : "Vermerk",
       "frm" : "die Vermerke(s)",
       "trn" : "заметка",
-      "xmp" : null
+      "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "verstoßen",
@@ -900,7 +900,7 @@
       "wrd" : "vorbezeichnet",
       "frm" : "",
       "trn" : "предопределённый",
-      "xmp" : null
+      "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "vorläufig",
@@ -924,13 +924,13 @@
       "wrd" : "Wortlaut",
       "frm" : "die Wortlaute(s)",
       "trn" : "дословный текст",
-      "xmp" : null
+      "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "zulässig",
       "frm" : "",
       "trn" : "допустимый",
-      "xmp" : null
+      "xmp" : ""
     }, {
       "mfn" : "m",
       "wrd" : "Zuschlag",

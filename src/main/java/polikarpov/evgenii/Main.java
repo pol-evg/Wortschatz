@@ -77,6 +77,6 @@ public class Main {
     static String trim(String s) {
         return Optional.ofNullable(s)
                 .map(String::trim)
-                .orElse(s);
+                .orElse("");
     }
 }
