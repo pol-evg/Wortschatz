@@ -16,6 +16,12 @@
       "trn" : "упрощение",
       "xmp" : "Abkürzungen des Denkens"
     }, {
+      "mfn" : "",
+      "wrd" : "ableiten",
+      "frm" : "leitet ab / leitete ab / hat abgeleitet",
+      "trn" : "вывести",
+      "xmp" : "wir können also davon ableiten, dass ..."
+    }, {
       "mfn" : "f",
       "wrd" : "Absicht",
       "frm" : "die Absichten",
@@ -70,6 +76,12 @@
       "trn" : "вместимость",
       "xmp" : ""
     }, {
+      "mfn" : "",
+      "wrd" : "aufnehmen",
+      "frm" : "nimmt auf / nahm auf / aufgenommen",
+      "trn" : "начинать/возобновлять",
+      "xmp" : "Tätigkeit"
+    }, {
       "mfn" : "f",
       "wrd" : "Aufstellung",
       "frm" : "die Aufstellungen",
@@ -87,6 +99,12 @@
       "frm" : "die Ausgangsbasis",
       "trn" : "исходный пункт",
       "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "auslösen",
+      "frm" : "löst aus / löste aus / hat ausgelöst",
+      "trn" : "вызывать",
+      "xmp" : "..., dass Logik, die Handlungen auslöst, ..."
     }, {
       "mfn" : "",
       "wrd" : "ausmachen",
@@ -137,10 +155,28 @@
       "xmp" : ""
     }, {
       "mfn" : "",
+      "wrd" : "beinhalten",
+      "frm" : "beinhaltet / beinhaltete / hat beinhaltet",
+      "trn" : "содержать / означать",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
       "wrd" : "beruhen (auf)",
       "frm" : "beruht / beruhte / hat beruht",
       "trn" : "покоиться на",
       "xmp" : "etw beruht auf Gegenseitigkeit - что-либо основывается на взаимности"
+    }, {
+      "mfn" : "m",
+      "wrd" : "Bestandteil",
+      "frm" : "die Bestandteile(s)",
+      "trn" : "составная часть/элемент",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "bestimmen",
+      "frm" : "bestimmt / bestimmte / hat bestimmt",
+      "trn" : "определяет/устанавливает",
+      "xmp" : ""
     }, {
       "mfn" : "",
       "wrd" : "bewerben",
@@ -346,6 +382,12 @@
       "trn" : "поощрение",
       "xmp" : "Focus auf Förderung von selbst organisierten Teams"
     }, {
+      "mfn" : "m",
+      "wrd" : "Gedanke",
+      "frm" : "die Gedanken",
+      "trn" : "мысль/идея",
+      "xmp" : ""
+    }, {
       "mfn" : "",
       "wrd" : "gelten",
       "frm" : "gilt / galt / hat gegolten",
@@ -502,6 +544,12 @@
       "trn" : "потерпеть неудачу",
       "xmp" : ""
     }, {
+      "mfn" : "m",
+      "wrd" : "Selbsterhalt",
+      "frm" : "",
+      "trn" : "самосохранение",
+      "xmp" : ""
+    }, {
       "mfn" : "",
       "wrd" : "sich Dat etw Gen bewusst sein",
       "frm" : "",
@@ -554,6 +602,12 @@
       "wrd" : "Verbündeter",
       "frm" : "die Verbündeten",
       "trn" : "союзник",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "verknüpfen",
+      "frm" : "verknüpft / verknüpfte / hat verknüpft",
+      "trn" : "связывать",
       "xmp" : ""
     }, {
       "mfn" : "",
@@ -651,6 +705,12 @@
       "frm" : "die Zusammenstellungen",
       "trn" : "состав/список/сборник",
       "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "zustehen",
+      "frm" : "steht zu / stand zu / hat zugestanden",
+      "trn" : "полагаться / имеет право на",
+      "xmp" : "..., dass ihm es nicht zusteht \"aufzumucken\""
     }, {
       "mfn" : "",
       "wrd" : "zwangsläufig",

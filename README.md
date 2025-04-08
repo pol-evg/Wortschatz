@@ -3,6 +3,7 @@
 |------|-------------|---------|
 |abgrenzen (grenzt ab / grenzte ab / hat abgegrenzt)|отгораживать/отмежёвываться| |
 |die Abkürzung (die Abkürzungen)|упрощение|Abkürzungen des Denkens|
+|ableiten (leitet ab / leitete ab / hat abgeleitet)|вывести|wir können also davon ableiten, dass ...|
 |die Absicht (die Absichten)|намерение| |
 |angeblich|мнимый| |
 |angemessen|соответствующий| |
@@ -12,9 +13,11 @@
 |anschließend|последующий| |
 |ansetzen (setzt an / setzte an / hat angesetzt)|начинать| |
 |die Aufnahmefähigkeit (die Aufnahmefächigkeiten)|вместимость| |
+|aufnehmen (nimmt auf / nahm auf / aufgenommen)|начинать/возобновлять|Tätigkeit|
 |die Aufstellung (die Aufstellungen)|постановка/расстановка| |
 |ausführen (führt aus / führte aus / has ausgeführt)|излагать|bevor ich weiter ausführe, ...|
 |die Ausgangsbasis (die Ausgangsbasis)|исходный пункт| |
+|auslösen (löst aus / löste aus / hat ausgelöst)|вызывать|..., dass Logik, die Handlungen auslöst, ...|
 |ausmachen (macht aus / machte aus / ausgemacht)|иметь значение| |
 |ausrufen (ruft aus / rief aus / hat ausgerufen)|объявлять/провозглашать| |
 |aussagen (sagt aus / sagte aut / hat ausgesagt)|высказывать/выражать| |
@@ -23,7 +26,10 @@
 |begreifen (begreift / begriff / hat begriffen)|понимать/соображать| |
 |der Begriff (die Begriffe(s))|понятие| |
 |begründen (begründet / begründete / hat begründet)|обосновывать| |
+|beinhalten (beinhaltet / beinhaltete / hat beinhaltet)|содержать / означать| |
 |beruhen (auf) (beruht / beruhte / hat beruht)|покоиться на|etw beruht auf Gegenseitigkeit - что-либо основывается на взаимности|
+|der Bestandteil (die Bestandteile(s))|составная часть/элемент| |
+|bestimmen (bestimmt / bestimmte / hat bestimmt)|определяет/устанавливает| |
 |bewerben (bewirbt / bewarb / hat beworben)|Reklame machen| |
 |beziehen (sich) (bezient / bezog / hat bezogen)|ссылаться| |
 |daher|оттуда|das kommt daher, dass... - это от того, что...|
@@ -58,6 +64,7 @@
 |festgefahren|застрявший (на мёртвой точке)/зашедший в тупик| |
 |feststellen (stellt fest / stellte fest / hat festgestellt)|устанавливать/констатировать| |
 |die Förderung (die Förderungen)|поощрение|Focus auf Förderung von selbst organisierten Teams|
+|der Gedanke (die Gedanken)|мысль/идея| |
 |gelten (gilt / galt / hat gegolten)|быть действительным| |
 |der Glaubenssatz (die Glaubensätze)|догма|durch soziale Prägungen entstandene Glaubenssätze|
 |die Grundlage (die Grundlagen)|основа/основание| |
@@ -84,6 +91,7 @@
 |rudern (rudert / ruderte / hat gerudert)|грести| |
 |das Rückgrat (die Rückgrate)|хребет| |
 |scheitern (scheitert / scheiterte / ist gescheitert)|потерпеть неудачу| |
+|der Selbsterhalt|самосохранение| |
 |sich Dat etw Gen bewusst sein|знать что-либо| |
 |das Sortiment|ассортимент| |
 |die Spürnase|нюх/проницательность| |
@@ -93,6 +101,7 @@
 |und zwar|а именно| |
 |die Verbündete (die Verbündeten)|союзница| |
 |der Verbündeter (die Verbündeten)|союзник| |
+|verknüpfen (verknüpft / verknüpfte / hat verknüpft)|связывать| |
 |verlangen (verlangt / verlangte / hat verlangt)|требовать| |
 |die Vernunft|разум/рассудок/здравый смысл| |
 |verschärfen (verschärft / verschärfte / hat verschärft)|ужесточать/обостряться| |
@@ -109,6 +118,7 @@
 |wirksam|действенный| |
 |worin|в чём| |
 |die Zusammenstellung (die Zusammenstellungen)|состав/список/сборник| |
+|zustehen (steht zu / stand zu / hat zugestanden)|полагаться / имеет право на|..., dass ihm es nicht zusteht "aufzumucken"|
 |zwangsläufig|неизбежный| |
 |über die Zeit des <Gen> hinaus|по прошествии ч.-л.| |
 |überhaupt|вообще| |
