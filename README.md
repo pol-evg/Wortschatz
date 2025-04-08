@@ -1,6 +1,7 @@
 # Das agile Mindset
 | Word | Translation | Example |
 |------|-------------|---------|
+|abgrenzen (grenzt ab / grenzte ab / hat abgegrenzt)|отгораживать/отмежёвываться| |
 |die Abkürzung (die Abkürzungen)|упрощение|Abkürzungen des Denkens|
 |die Absicht (die Absichten)|намерение| |
 |angeblich|мнимый| |
@@ -14,6 +15,7 @@
 |die Aufstellung (die Aufstellungen)|постановка/расстановка| |
 |ausführen (führt aus / führte aus / has ausgeführt)|излагать|bevor ich weiter ausführe, ...|
 |die Ausgangsbasis (die Ausgangsbasis)|исходный пункт| |
+|ausmachen (macht aus / machte aus / ausgemacht)|иметь значение| |
 |ausrufen (ruft aus / rief aus / hat ausgerufen)|объявлять/провозглашать| |
 |aussagen (sagt aus / sagte aut / hat ausgesagt)|высказывать/выражать| |
 |das Bauchgefühl|интуиция| |
@@ -37,16 +39,22 @@
 |einbeziehen (bezient ein / bezog ein / hat einbezogen)|включать (во что-то)| |
 |einbringen (bringt ein / brachte ein / hat eingebracht)|представлять|mochte ich hier einbringen...|
 |eine Entscheidung treffen|принимать решение| |
+|einer Sache auf den Grund gehen|глубоко вникнуть в суть какого-лило дела|Ich muss der Idee von unserem Mindset auf gen Grund gehen|
 |einführen (führt ein / führte ein / hat eingeführt)|вводить|ich führe meine Haltung ein|
 |einhergehend|сопровождающий| |
 |die Einstellung (die Einstellungen)|настройка/регулировака|Einstellung des Verstandes|
 |der Eintrag (die Einträge(s))|запись| |
 |entsprechen (entspicht / entsprach / hat entsprochen)|соответствовать| |
+|entspringen (entspringt / entsprang / ist entsprungen)|брать/взять начало/проистекать|Für ihn entsprangen Vorstellunhen allein der Sinnlichkeit|
 |entstehen (entsteht / entstand / ist entstanden)|возникать| |
+|ergründen (ergründet / ergründete / hat ergründet)|изучать/исследовать| |
 |erheblich besser|значительно лучше| |
+|erlangen (erlangt / erlangte / hat erlangt)|достигать/получать| |
 |ermöglichen|делать возможным| |
+|es geht um ...|речь идёт о...| |
 |etw ist jdm in Fleisch und Blut übergegangen|стать второй натурой| |
 |die Facette (die Facetten)|грань| |
+|fassbar|понятный/постижимый| |
 |festgefahren|застрявший (на мёртвой точке)/зашедший в тупик| |
 |feststellen (stellt fest / stellte fest / hat festgestellt)|устанавливать/констатировать| |
 |die Förderung (die Förderungen)|поощрение|Focus auf Förderung von selbst organisierten Teams|
@@ -83,11 +91,12 @@
 |das Umfeld (die Umfelde(s))|окружение| |
 |der Umgang (mit jdm) (die Umgange(s))|общение (с людьми)/обращение (с прибором)| |
 |und zwar|а именно| |
-|der Verbündeter (die Verbündeten)|союзник| |
 |die Verbündete (die Verbündeten)|союзница| |
+|der Verbündeter (die Verbündeten)|союзник| |
 |verlangen (verlangt / verlangte / hat verlangt)|требовать| |
+|die Vernunft|разум/рассудок/здравый смысл| |
 |verschärfen (verschärft / verschärfte / hat verschärft)|ужесточать/обостряться| |
-|der Verstand (die Verstande(s))|разум| |
+|der Verstand (die Verstande(s))|ум/разум/рассудок| |
 |verzichten (auf) (verzichtet / verzichtete / hat verzichtet)|отказываться| |
 |vorantreiben (treibt voran / trieb voran / hat vornagetrieben)|ускорять/форсировать| |
 |vorgehen (geht vor / ging vor / ist vorgegangen)|происходить/действовать/поступать/выходить| |
@@ -98,6 +107,7 @@
 |widerlegen (widerlegt / widerlegte / hat widerlegt)|опровергать| |
 |willkürlich|произвольно| |
 |wirksam|действенный| |
+|worin|в чём| |
 |die Zusammenstellung (die Zusammenstellungen)|состав/список/сборник| |
 |zwangsläufig|неизбежный| |
 |über die Zeit des <Gen> hinaus|по прошествии ч.-л.| |

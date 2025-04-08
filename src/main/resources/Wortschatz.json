@@ -4,6 +4,12 @@
     "source" : "Das agile Mindset",
     "preferred" : true,
     "words" : [ {
+      "mfn" : "",
+      "wrd" : "abgrenzen",
+      "frm" : "grenzt ab / grenzte ab / hat abgegrenzt",
+      "trn" : "отгораживать/отмежёвываться",
+      "xmp" : ""
+    }, {
       "mfn" : "f",
       "wrd" : "Abkürzung",
       "frm" : "die Abkürzungen",
@@ -80,6 +86,12 @@
       "wrd" : "Ausgangsbasis",
       "frm" : "die Ausgangsbasis",
       "trn" : "исходный пункт",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "ausmachen",
+      "frm" : "macht aus / machte aus / ausgemacht",
+      "trn" : "иметь значение",
       "xmp" : ""
     }, {
       "mfn" : "",
@@ -221,6 +233,12 @@
       "xmp" : ""
     }, {
       "mfn" : "",
+      "wrd" : "einer Sache auf den Grund gehen",
+      "frm" : "",
+      "trn" : "глубоко вникнуть в суть какого-лило дела",
+      "xmp" : "Ich muss der Idee von unserem Mindset auf gen Grund gehen"
+    }, {
+      "mfn" : "",
       "wrd" : "einführen",
       "frm" : "führt ein / führte ein / hat eingeführt",
       "trn" : "вводить",
@@ -251,9 +269,21 @@
       "xmp" : ""
     }, {
       "mfn" : "",
+      "wrd" : "entspringen",
+      "frm" : "entspringt / entsprang / ist entsprungen",
+      "trn" : "брать/взять начало/проистекать",
+      "xmp" : "Für ihn entsprangen Vorstellunhen allein der Sinnlichkeit"
+    }, {
+      "mfn" : "",
       "wrd" : "entstehen",
       "frm" : "entsteht / entstand / ist entstanden",
       "trn" : "возникать",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "ergründen",
+      "frm" : "ergründet / ergründete / hat ergründet",
+      "trn" : "изучать/исследовать",
       "xmp" : ""
     }, {
       "mfn" : "",
@@ -263,9 +293,21 @@
       "xmp" : ""
     }, {
       "mfn" : "",
+      "wrd" : "erlangen",
+      "frm" : "erlangt / erlangte / hat erlangt",
+      "trn" : "достигать/получать",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
       "wrd" : "ermöglichen",
       "frm" : "",
       "trn" : "делать возможным",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "es geht um ...",
+      "frm" : "",
+      "trn" : "речь идёт о...",
       "xmp" : ""
     }, {
       "mfn" : "",
@@ -278,6 +320,12 @@
       "wrd" : "Facette",
       "frm" : "die Facetten",
       "trn" : "грань",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "fassbar",
+      "frm" : "",
+      "trn" : "понятный/постижимый",
       "xmp" : ""
     }, {
       "mfn" : "",
@@ -496,22 +544,28 @@
       "trn" : "а именно",
       "xmp" : ""
     }, {
-      "mfn" : "m",
-      "wrd" : "Verbündeter",
-      "frm" : "die Verbündeten",
-      "trn" : "союзник",
-      "xmp" : ""
-    }, {
       "mfn" : "f",
       "wrd" : "Verbündete",
       "frm" : "die Verbündeten",
       "trn" : "союзница",
       "xmp" : ""
     }, {
+      "mfn" : "m",
+      "wrd" : "Verbündeter",
+      "frm" : "die Verbündeten",
+      "trn" : "союзник",
+      "xmp" : ""
+    }, {
       "mfn" : "",
       "wrd" : "verlangen",
       "frm" : "verlangt / verlangte / hat verlangt",
       "trn" : "требовать",
+      "xmp" : ""
+    }, {
+      "mfn" : "f",
+      "wrd" : "Vernunft",
+      "frm" : "",
+      "trn" : "разум/рассудок/здравый смысл",
       "xmp" : ""
     }, {
       "mfn" : "",
@@ -523,7 +577,7 @@
       "mfn" : "m",
       "wrd" : "Verstand",
       "frm" : "die Verstande(s)",
-      "trn" : "разум",
+      "trn" : "ум/разум/рассудок",
       "xmp" : ""
     }, {
       "mfn" : "",
@@ -584,6 +638,12 @@
       "wrd" : "wirksam",
       "frm" : "",
       "trn" : "действенный",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "worin",
+      "frm" : "",
+      "trn" : "в чём",
       "xmp" : ""
     }, {
       "mfn" : "f",
