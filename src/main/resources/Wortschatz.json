@@ -5,6 +5,12 @@
     "preferred" : true,
     "words" : [ {
       "mfn" : "",
+      "wrd" : "abfärben",
+      "frm" : "färbt ab / färbte ab / hat abgefärbt",
+      "trn" : "оказывать (влияние)",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
       "wrd" : "abgrenzen",
       "frm" : "grenzt ab / grenzte ab / hat abgegrenzt",
       "trn" : "отгораживать/отмежёвываться",
@@ -19,13 +25,19 @@
       "mfn" : "",
       "wrd" : "ableiten",
       "frm" : "leitet ab / leitete ab / hat abgeleitet",
-      "trn" : "вывести",
+      "trn" : "вывести/делать выводы/извлекать",
       "xmp" : "wir können also davon ableiten, dass ..."
     }, {
       "mfn" : "f",
       "wrd" : "Absicht",
       "frm" : "die Absichten",
       "trn" : "намерение",
+      "xmp" : ""
+    }, {
+      "mfn" : "f",
+      "wrd" : "Ambiguität",
+      "frm" : "die Ambiguitäten",
+      "trn" : "двусмысленность",
       "xmp" : ""
     }, {
       "mfn" : "",
@@ -70,6 +82,18 @@
       "trn" : "начинать",
       "xmp" : ""
     }, {
+      "mfn" : "",
+      "wrd" : "attestieren",
+      "frm" : "attestiert / atterstierte / hat attestiert",
+      "trn" : "свидетельствовать",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "aufbegehren",
+      "frm" : "begehrt auf / begehrte auf / hat aufbegehrt",
+      "trn" : "запротестовать/возмутиться/вспылить",
+      "xmp" : ""
+    }, {
       "mfn" : "f",
       "wrd" : "Aufnahmefähigkeit",
       "frm" : "die Aufnahmefächigkeiten",
@@ -101,9 +125,15 @@
       "xmp" : ""
     }, {
       "mfn" : "",
+      "wrd" : "aushalten",
+      "frm" : "hält aus / hielt aus / hat ausgehalten",
+      "trn" : "выносить/вытерпеть/выдержать",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
       "wrd" : "auslösen",
       "frm" : "löst aus / löste aus / hat ausgelöst",
-      "trn" : "вызывать",
+      "trn" : "вызывать/возбуждать/приводить в действие",
       "xmp" : "..., dass Logik, die Handlungen auslöst, ..."
     }, {
       "mfn" : "",
@@ -123,6 +153,12 @@
       "frm" : "sagt aus / sagte aut / hat ausgesagt",
       "trn" : "высказывать/выражать",
       "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "aussetzen",
+      "frm" : "setzt aus / setzte aus / hat ausgesetzt",
+      "trn" : "подвергать",
+      "xmp" : "je länger jemand ... \"Unternehmens-Mindset\" ausgesetzt wird, desto ..."
     }, {
       "mfn" : "n",
       "wrd" : "Bauchgefühl",
@@ -171,6 +207,12 @@
       "frm" : "die Bestandteile(s)",
       "trn" : "составная часть/элемент",
       "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "bestehen",
+      "frm" : "besteht / bestand / hat bestanden",
+      "trn" : "существовать/продолжаться",
+      "xmp" : "Dabei besteht eine Person-Umwelt-Interaktion."
     }, {
       "mfn" : "",
       "wrd" : "bestimmen",
@@ -244,6 +286,12 @@
       "trn" : "продумывать",
       "xmp" : "wohl durchdenken - хорошо обдуманный"
     }, {
+      "mfn" : "",
+      "wrd" : "durchsetzen",
+      "frm" : "setzt durch / setzte durch / hat durchgesetzt",
+      "trn" : "добиться/добиваться/настаивать",
+      "xmp" : ""
+    }, {
       "mfn" : "f",
       "wrd" : "Ebene",
       "frm" : "die Ebenen",
@@ -251,9 +299,21 @@
       "xmp" : ""
     }, {
       "mfn" : "",
+      "wrd" : "eher",
+      "frm" : "",
+      "trn" : "lieber/früher",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
       "wrd" : "einbeziehen",
       "frm" : "bezient ein / bezog ein / hat einbezogen",
       "trn" : "включать (во что-то)",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "einbinden",
+      "frm" : "bindet ein / band ein / hat eingebunden",
+      "trn" : "включать (in einer Konzept)",
       "xmp" : ""
     }, {
       "mfn" : "",
@@ -296,6 +356,12 @@
       "wrd" : "Eintrag",
       "frm" : "die Einträge(s)",
       "trn" : "запись",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "entlavren",
+      "frm" : "entlavrt / entlavrte / hat entlavrt",
+      "trn" : "разоблачать",
       "xmp" : ""
     }, {
       "mfn" : "",
@@ -554,7 +620,25 @@
       "wrd" : "sich Dat etw Gen bewusst sein",
       "frm" : "",
       "trn" : "знать что-либо",
+      "xmp" : "Die wenigsten sind sich bewusst, ..."
+    }, {
+      "mfn" : "",
+      "wrd" : "sich durchsetzen",
+      "frm" : "setzt durch / setzte durch / hat durchgesetzt",
+      "trn" : "пробиться/пробиваться",
       "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "sich loslösen",
+      "frm" : "löst los / löste los / hat losgelöst",
+      "trn" : "оторваться",
+      "xmp" : "es ist nicht losgelöst zu sehen - это нельзя рассматривать изолированно"
+    }, {
+      "mfn" : "",
+      "wrd" : "sich wappnen",
+      "frm" : "wappnet / wappnete / hat gewappnet",
+      "trn" : "вооружиться",
+      "xmp" : "..., ob sie für eine Aufgabe gewappnet sind."
     }, {
       "mfn" : "n",
       "wrd" : "Sortiment",
@@ -566,6 +650,12 @@
       "wrd" : "Spürnase",
       "frm" : "",
       "trn" : "нюх/проницательность",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "starr",
+      "frm" : "",
+      "trn" : "застывший/упрямый",
       "xmp" : ""
     }, {
       "mfn" : "",
@@ -584,6 +674,18 @@
       "wrd" : "Umgang (mit jdm)",
       "frm" : "die Umgange(s)",
       "trn" : "общение (с людьми)/обращение (с прибором)",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "umgekehrt",
+      "frm" : "",
+      "trn" : "обратный/наоборот",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "umkrempeln",
+      "frm" : "krempelt um / krempelte um / hat umgekrempelt",
+      "trn" : "ugs: von Grund auf umgestalten, anders machen",
       "xmp" : ""
     }, {
       "mfn" : "",
@@ -641,6 +743,12 @@
       "xmp" : ""
     }, {
       "mfn" : "",
+      "wrd" : "vielmehr",
+      "frm" : "",
+      "trn" : "скорее",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
       "wrd" : "vorantreiben",
       "frm" : "treibt voran / trieb voran / hat vornagetrieben",
       "trn" : "ускорять/форсировать",
@@ -662,6 +770,12 @@
       "wrd" : "vorherrschen",
       "frm" : "herrscht vor / herrschte vor / hat vorgeherrscht",
       "trn" : "преобладать",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "weiterkommen",
+      "frm" : "kommt weiter / kam weiter / ist weitergekommen",
+      "trn" : "продвигаться",
       "xmp" : ""
     }, {
       "mfn" : "",
@@ -698,6 +812,12 @@
       "wrd" : "worin",
       "frm" : "",
       "trn" : "в чём",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "zusammenfügen",
+      "frm" : "fügt zusammen / fügte zusammen / hat zusammengefügt",
+      "trn" : "собрать вместе/соединять/связывать",
       "xmp" : ""
     }, {
       "mfn" : "f",

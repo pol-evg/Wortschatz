@@ -104,12 +104,15 @@ public class Word implements Comparable<Word> {
             case FEMININE -> stringBuilder.append("die ");
             case MASCULINE -> stringBuilder.append("der ");
             case NEUTRAL -> stringBuilder.append("das ");
+            default -> stringBuilder.append(' ');
         }
+        stringBuilder.append('|');
         stringBuilder.append(value);
+        stringBuilder.append('|');
         if (StringUtils.isNotBlank(forms)) {
-            stringBuilder.append(" (");
             stringBuilder.append(forms);
-            stringBuilder.append(')');
+        } else {
+            stringBuilder.append(' ');
         }
         stringBuilder.append('|');
         stringBuilder.append(translation);

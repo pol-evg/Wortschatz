@@ -113,10 +113,10 @@ public class Language {
                 writer.write(source.getSource());
                 writer.newLine();
 
-                writer.write("| Word | Translation | Example |");
+                writer.write("|  | Word | Forms | Translation | Example |");
                 writer.newLine();
 
-                writer.write("|------|-------------|---------|");
+                writer.write("|---|------|-------|-------------|---------|");
                 writer.newLine();
 
                 for (Word word: source.getWords()) {
