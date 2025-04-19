@@ -108,18 +108,21 @@ public class Language {
     private void updateReadme() {
         try (BufferedWriter writer = Files.newBufferedWriter(Path.of("./README.md"), StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING)) {
             for (Source source: sources) {
+                int count = 1;
 
                 writer.write("# ");
                 writer.write(source.getSource());
                 writer.newLine();
 
-                writer.write("|  | Word | Forms | Translation | Example |");
+                writer.write("|#|  | Word | Forms | Translation | Example |");
                 writer.newLine();
 
-                writer.write("|---|------|-------|-------------|---------|");
+                writer.write("|---|---|------|-------|-------------|---------|");
                 writer.newLine();
 
                 for (Word word: source.getWords()) {
+                    writer.write("|");
+                    writer.write(String.valueOf(count++));
                     writer.write(word.toMarkdown(language));
                     writer.newLine();
                 }
