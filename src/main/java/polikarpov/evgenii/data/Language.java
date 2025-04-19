@@ -18,7 +18,7 @@ import java.util.function.Consumer;
 public class Language {
 
     public static final String WORTSCHATZ_JSON = "Wortschatz.json";
-    private String language;
+    private SupportedLanguage language;
 
     private Source[] sources;
 
@@ -120,7 +120,7 @@ public class Language {
                 writer.newLine();
 
                 for (Word word: source.getWords()) {
-                    writer.write(word.toMarkdown());
+                    writer.write(word.toMarkdown(language));
                     writer.newLine();
                 }
             }

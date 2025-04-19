@@ -97,7 +97,7 @@ public class Word implements Comparable<Word> {
         return stringBuilder.toString();
     }
 
-    public String toMarkdown() {
+    public String toMarkdown(SupportedLanguage language) {
         StringBuilder stringBuilder = new StringBuilder();
         stringBuilder.append('|');
         switch (mfn) {
@@ -107,7 +107,8 @@ public class Word implements Comparable<Word> {
             default -> stringBuilder.append(' ');
         }
         stringBuilder.append('|');
-        stringBuilder.append(value);
+        stringBuilder.append(String.format("[%s](https://de.pons.com/übersetzung-2/%s-russisch/%s)",
+                value, language, value.replaceAll(" ", "+")));
         stringBuilder.append('|');
         if (StringUtils.isNotBlank(forms)) {
             stringBuilder.append(forms);
