@@ -28,6 +28,12 @@
       "trn" : "вывести/делать выводы/извлекать",
       "xmp" : "wir können also davon ableiten, dass ..."
     }, {
+      "mfn" : "m",
+      "wrd" : "Abschnitt",
+      "frm" : "die Abschnitte(s)",
+      "trn" : "раздел/глава",
+      "xmp" : ""
+    }, {
       "mfn" : "f",
       "wrd" : "Absicht",
       "frm" : "die Absichten",
@@ -89,6 +95,12 @@
       "xmp" : ""
     }, {
       "mfn" : "",
+      "wrd" : "auf der Hut sein",
+      "frm" : "",
+      "trn" : "быть настороже / быть начеку / глядеть в оба",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
       "wrd" : "aufbegehren",
       "frm" : "begehrt auf / begehrte auf / hat aufbegehrt",
       "trn" : "запротестовать/возмутиться/вспылить",
@@ -111,6 +123,12 @@
       "frm" : "die Aufstellungen",
       "trn" : "постановка/расстановка",
       "xmp" : ""
+    }, {
+      "mfn" : "m",
+      "wrd" : "Augenschein",
+      "frm" : "die Augenscheine(s)",
+      "trn" : "вид/видимость",
+      "xmp" : "etw in Augenschein nehmen - осмотреть"
     }, {
       "mfn" : "",
       "wrd" : "ausführen",
@@ -346,6 +364,12 @@
       "trn" : "сопровождающий",
       "xmp" : ""
     }, {
+      "mfn" : "",
+      "wrd" : "einschätzen",
+      "frm" : "shätzt ein / schätzte ein / hat eingeschätzt",
+      "trn" : "оценивать",
+      "xmp" : ""
+    }, {
       "mfn" : "f",
       "wrd" : "Einstellung",
       "frm" : "die Einstellungen",
@@ -425,6 +449,12 @@
       "xmp" : ""
     }, {
       "mfn" : "",
+      "wrd" : "falschliegen",
+      "frm" : "liegt falsch / lag falsch / hat falschgelegen",
+      "trn" : "заблуждаться",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
       "wrd" : "fassbar",
       "frm" : "",
       "trn" : "понятный/постижимый",
@@ -452,6 +482,12 @@
       "wrd" : "Gedanke",
       "frm" : "die Gedanken",
       "trn" : "мысль/идея",
+      "xmp" : ""
+    }, {
+      "mfn" : "m",
+      "wrd" : "Gegenbeweis",
+      "frm" : "die Gegenbeweise(s)",
+      "trn" : "доказательство противоположного/контраргумент",
       "xmp" : ""
     }, {
       "mfn" : "",
@@ -550,6 +586,12 @@
       "trn" : "по моему мнению",
       "xmp" : ""
     }, {
+      "mfn" : "",
+      "wrd" : "mithalten",
+      "frm" : "hält mit / hielt mit / hat mitgehalten",
+      "trn" : "не отставать/не отстать от других",
+      "xmp" : ""
+    }, {
       "mfn" : "f",
       "wrd" : "Nische",
       "frm" : "die Nischen",
@@ -590,6 +632,12 @@
       "wrd" : "raffiniert",
       "frm" : "",
       "trn" : "изысканный/утонченный/хитрый/коварный",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "revidieren",
+      "frm" : "revidiert / revidierte / hat revisiert",
+      "trn" : "пересматривать/пересмотреть",
       "xmp" : ""
     }, {
       "mfn" : "",
@@ -640,6 +688,12 @@
       "trn" : "вооружиться",
       "xmp" : "..., ob sie für eine Aufgabe gewappnet sind."
     }, {
+      "mfn" : "",
+      "wrd" : "sich wiederfinden",
+      "frm" : "findet wieder / fand wieder / hat wiedergefunden",
+      "trn" : "оказаться/оказываться",
+      "xmp" : "..., dass sie sich als Softwarespezialisten wiederfinden?"
+    }, {
       "mfn" : "n",
       "wrd" : "Sortiment",
       "frm" : "",
@@ -657,6 +711,12 @@
       "frm" : "",
       "trn" : "застывший/упрямый",
       "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "stützen",
+      "frm" : "stützt / stützte / hat gestützt",
+      "trn" : "опираться",
+      "xmp" : "Worauf stützen Sie gerade Ihre Zeiteinschätzung?"
     }, {
       "mfn" : "",
       "wrd" : "trügerisch",
@@ -749,6 +809,12 @@
       "xmp" : ""
     }, {
       "mfn" : "",
+      "wrd" : "vollständig",
+      "frm" : "",
+      "trn" : "полный/совершенно/полностью",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
       "wrd" : "vorantreiben",
       "frm" : "treibt voran / trieb voran / hat vornagetrieben",
       "trn" : "ускорять/форсировать",
@@ -815,6 +881,12 @@
       "xmp" : ""
     }, {
       "mfn" : "",
+      "wrd" : "zuordnen",
+      "frm" : "ordnet zu / ordnete zu / hat zugeordnet",
+      "trn" : "отнести кого-либо к какой-либо группе",
+      "xmp" : "jdn einer Gruppe zuordnen"
+    }, {
+      "mfn" : "",
       "wrd" : "zusammenfügen",
       "frm" : "fügt zusammen / fügte zusammen / hat zusammengefügt",
       "trn" : "собрать вместе/соединять/связывать",
@@ -842,6 +914,12 @@
       "wrd" : "über die Zeit des <Gen> hinaus",
       "frm" : "",
       "trn" : "по прошествии ч.-л.",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "überflüssig",
+      "frm" : "",
+      "trn" : "лишний / ненужный",
       "xmp" : ""
     }, {
       "mfn" : "",
