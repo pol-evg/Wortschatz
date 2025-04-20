@@ -1,6 +1,7 @@
 package polikarpov.evgenii;
 
 import polikarpov.evgenii.data.Language;
+import polikarpov.evgenii.data.SaveStrategy;
 import polikarpov.evgenii.data.Word;
 
 import java.util.Objects;
@@ -20,6 +21,9 @@ public class Main {
     public static final String ANSI_PURPLE = "\u001B[35m";
     public static final String ANSI_RESET = "\u001B[0m";
 
+    private static final SaveStrategy.Alphabetical saveAlphabetically = new SaveStrategy.Alphabetical();
+    private static final SaveStrategy.Levenshtein saveLevenshtein = new SaveStrategy.Levenshtein();
+
     private static final Pattern aPattern =
             Pattern.compile("^a\\s+(?<" + MFN + ">[mfn])?\\s*#\\s*(?<" +
                     WRD + ">[^#]+)\\s*#\\s*(?<" + FRM + ">[^#]+)?\\s*#\\s*(?<" +
@@ -38,7 +42,8 @@ public class Main {
             if (cmd == null || cmd.isBlank()) continue;
 
             if (cmd.equals("r")) {
-                language.write();
+                language.write(saveAlphabetically);
+                language.write(saveLevenshtein);
                 continue;
             }
 
@@ -59,7 +64,7 @@ public class Main {
         System.out.print(ANSI_PURPLE);
         System.out.println("Commands available:");
         System.out.println("a mfn? # word # forms? # translate # example? : adds new word to the default source");
-        System.out.println("r : builds Readme.md");
+        System.out.println("r : builds sorted files");
         System.out.println("q : quits the program" + ANSI_RESET);
     }
 

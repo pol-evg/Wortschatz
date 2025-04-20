@@ -55,7 +55,6 @@ public class Language {
                 });
 
         printStatistics();
-        write();
     }
 
     public void printStatistics() {
@@ -65,7 +64,7 @@ public class Language {
                 getLanguage(), defaultSource.getSource(), defaultSource.getWords().size());
     }
 
-    public void write() {
+    public void write(SaveStrategy saveStrategy) {
         try (var executor = Executors.newSingleThreadExecutor()) {
             executor.submit(() -> {
                 ObjectMapper objectMapper = new ObjectMapper();
@@ -74,7 +73,7 @@ public class Language {
                     try {
                         objectMapper.writerWithDefaultPrettyPrinter().writeValue(file, this);
                         System.out.println("Saved");
-                        updateReadme();
+                        updateReadme(saveStrategy);
                         System.out.println("Readme file updated");
                         executor.shutdownNow();
                     } catch (IOException e) {
@@ -105,8 +104,11 @@ public class Language {
                 .orElseThrow(() -> new RuntimeException("No default source detected"));
     }
 
-    private void updateReadme() {
-        try (BufferedWriter writer = Files.newBufferedWriter(Path.of("./README.md"), StandardOpenOption.CREATE, StandardOpenOption.TRUNCATE_EXISTING)) {
+    private void updateReadme(SaveStrategy saveStrategy) {
+        try (BufferedWriter writer = Files.newBufferedWriter(
+                Path.of(saveStrategy.getReadmeFile()),
+                StandardOpenOption.CREATE,
+                StandardOpenOption.TRUNCATE_EXISTING)) {
             for (Source source: sources) {
                 int count = 1;
 
@@ -120,7 +122,7 @@ public class Language {
                 writer.write("|---|---|------|-------|-------------|---------|");
                 writer.newLine();
 
-                for (Word word: source.getWords()) {
+                for (Word word: saveStrategy.getWordSupplier().apply(source)) {
                     writer.write("|");
                     writer.write(String.valueOf(count++));
                     writer.write(word.toMarkdown(language));
