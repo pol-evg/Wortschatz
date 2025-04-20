@@ -121,8 +121,8 @@
       "mfn" : "f",
       "wrd" : "Aufstellung",
       "frm" : "die Aufstellungen",
-      "trn" : "постановка/расстановка",
-      "xmp" : ""
+      "trn" : "формирование",
+      "xmp" : "Aufstellung und Einstellung des Verstandes."
     }, {
       "mfn" : "m",
       "wrd" : "Augenschein",
@@ -141,6 +141,12 @@
       "frm" : "die Ausgangsbasis",
       "trn" : "исходный пункт",
       "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "ausgehen",
+      "frm" : "geht aus / ging aus / ist ausgegangen",
+      "trn" : "кончаться",
+      "xmp" : "die Fachkräfte ausgehen"
     }, {
       "mfn" : "",
       "wrd" : "aushalten",
@@ -185,6 +191,12 @@
       "xmp" : ""
     }, {
       "mfn" : "",
+      "wrd" : "bebegnen",
+      "frm" : "begegnet / begegnete / ist begegnet",
+      "trn" : "случаться",
+      "xmp" : "durch die Schaffung von etwas ganz Neuem begenen"
+    }, {
+      "mfn" : "",
       "wrd" : "bedingungslos",
       "frm" : "",
       "trn" : "безоговорочно",
@@ -206,6 +218,12 @@
       "wrd" : "begründen",
       "frm" : "begründet / begründete / hat begründet",
       "trn" : "обосновывать",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "behindern",
+      "frm" : "behindert / behinderte / hat behindert",
+      "trn" : "препятствовать/мешать",
       "xmp" : ""
     }, {
       "mfn" : "",
@@ -239,6 +257,18 @@
       "xmp" : ""
     }, {
       "mfn" : "",
+      "wrd" : "betrauen",
+      "frm" : "betraut / betraute / hat betraut",
+      "trn" : "jdn mit etw betrauen - поручать кому-либо что-либо",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "betreiben",
+      "frm" : "betreibt / betrieb / hat betrieben",
+      "trn" : "вести/заниматься",
+      "xmp" : "..., dass Sie das Unternehmen ... nicht mehr ... betreiben können"
+    }, {
+      "mfn" : "",
       "wrd" : "bewerben",
       "frm" : "bewirbt / bewarb / hat beworben",
       "trn" : "Reklame machen",
@@ -248,6 +278,12 @@
       "wrd" : "beziehen (sich)",
       "frm" : "bezient / bezog / hat bezogen",
       "trn" : "ссылаться",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "dadurch",
+      "frm" : "",
+      "trn" : "благодаря тому, что/вследствие того, что",
       "xmp" : ""
     }, {
       "mfn" : "",
@@ -317,6 +353,12 @@
       "xmp" : ""
     }, {
       "mfn" : "",
+      "wrd" : "ehe",
+      "frm" : "",
+      "trn" : "прежде чем",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
       "wrd" : "eher",
       "frm" : "",
       "trn" : "lieber/früher",
@@ -383,6 +425,12 @@
       "xmp" : ""
     }, {
       "mfn" : "",
+      "wrd" : "entfremden",
+      "frm" : "entfremdet / entfremdete / hat entfremdet",
+      "trn" : "отчуждать",
+      "xmp" : "sinnentfremdete Funktionen"
+    }, {
+      "mfn" : "",
       "wrd" : "entlavren",
       "frm" : "entlavrt / entlavrte / hat entlavrt",
       "trn" : "разоблачать",
@@ -404,6 +452,12 @@
       "wrd" : "entstehen",
       "frm" : "entsteht / entstand / ist entstanden",
       "trn" : "возникать",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "erfordern",
+      "frm" : "erfordert / erforderte / hat erfordert",
+      "trn" : "требовать",
       "xmp" : ""
     }, {
       "mfn" : "",
@@ -434,6 +488,12 @@
       "wrd" : "es geht um ...",
       "frm" : "",
       "trn" : "речь идёт о...",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "etw in Keim ersticken",
+      "frm" : "",
+      "trn" : "уничтожить что-либо в разодыше",
       "xmp" : ""
     }, {
       "mfn" : "",
@@ -472,6 +532,12 @@
       "trn" : "устанавливать/констатировать",
       "xmp" : ""
     }, {
+      "mfn" : "",
+      "wrd" : "freisetzen",
+      "frm" : "setzt frei / setzte frei / hat freigesetzt",
+      "trn" : "освобождать",
+      "xmp" : ""
+    }, {
       "mfn" : "f",
       "wrd" : "Förderung",
       "frm" : "die Förderungen",
@@ -488,6 +554,12 @@
       "wrd" : "Gegenbeweis",
       "frm" : "die Gegenbeweise(s)",
       "trn" : "доказательство противоположного/контраргумент",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "gelingen",
+      "frm" : "gelingt / geland / ist gelungen",
+      "trn" : "удаваться",
       "xmp" : ""
     }, {
       "mfn" : "",
@@ -525,6 +597,12 @@
       "frm" : "die Handlungen",
       "trn" : "действие",
       "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "hemmen",
+      "frm" : "hemmt / hemmte / hat gehemmt",
+      "trn" : "тормозить/сдерживать/препятствовать",
+      "xmp" : "innovationshemmend"
     }, {
       "mfn" : "f",
       "wrd" : "Herangehensweise",
@@ -567,6 +645,12 @@
       "frm" : "",
       "trn" : "по существу",
       "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "jdm den Rang ablaufen",
+      "frm" : "",
+      "trn" : "отобрать у кого-либо пальму первенства",
+      "xmp" : "..., dass das Auto niemals dem Pferd den Rang ablaufen könnte"
     }, {
       "mfn" : "f",
       "wrd" : "Lage",
@@ -652,10 +736,28 @@
       "trn" : "хребет",
       "xmp" : ""
     }, {
+      "mfn" : "f",
+      "wrd" : "Schaffung",
+      "frm" : "",
+      "trn" : "созидание",
+      "xmp" : ""
+    }, {
       "mfn" : "",
       "wrd" : "scheitern",
       "frm" : "scheitert / scheiterte / ist gescheitert",
       "trn" : "потерпеть неудачу",
+      "xmp" : ""
+    }, {
+      "mfn" : "f",
+      "wrd" : "Schnittstelle",
+      "frm" : "die Schnittstellen",
+      "trn" : "интерфейс",
+      "xmp" : ""
+    }, {
+      "mfn" : "f",
+      "wrd" : "Selbstbestätigung",
+      "frm" : "",
+      "trn" : "самоутверждение",
       "xmp" : ""
     }, {
       "mfn" : "m",
@@ -754,6 +856,12 @@
       "trn" : "а именно",
       "xmp" : ""
     }, {
+      "mfn" : "",
+      "wrd" : "unterliegen",
+      "frm" : "unterliegt / unterlag / ist unterlegen",
+      "trn" : "подчиняться/проигрывать",
+      "xmp" : "Sie unterliegen der Selbstbestätigungstendenz"
+    }, {
       "mfn" : "f",
       "wrd" : "Verbündete",
       "frm" : "die Verbündeten",
@@ -764,6 +872,12 @@
       "wrd" : "Verbündeter",
       "frm" : "die Verbündeten",
       "trn" : "союзник",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "verhindern",
+      "frm" : "verhindert / verhinderte / hat verhindert",
+      "trn" : "препятствовать/предотвращать",
       "xmp" : ""
     }, {
       "mfn" : "",
@@ -788,6 +902,18 @@
       "wrd" : "verschärfen",
       "frm" : "verschärft / verschärfte / hat verschärft",
       "trn" : "ужесточать/обостряться",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "versehen",
+      "frm" : "versieht / versah / hat versehen",
+      "trn" : "снабжать",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "versiert",
+      "frm" : "",
+      "trn" : "опытный",
       "xmp" : ""
     }, {
       "mfn" : "m",
@@ -821,6 +947,12 @@
       "xmp" : ""
     }, {
       "mfn" : "",
+      "wrd" : "vorgeben",
+      "frm" : "gibt vor / gab vor / hast vorgegeben",
+      "trn" : "задавать",
+      "xmp" : "...der Inhaber, dessen Mindset die Richtung vorgibt"
+    }, {
+      "mfn" : "",
       "wrd" : "vorgehen",
       "frm" : "geht vor / ging vor / ist vorgegangen",
       "trn" : "происходить/действовать/поступать/выходить",
@@ -832,10 +964,22 @@
       "trn" : "образ действия",
       "xmp" : ""
     }, {
+      "mfn" : "n",
+      "wrd" : "Vorhaben",
+      "frm" : "die Vorhaben(s)",
+      "trn" : "намерение",
+      "xmp" : ""
+    }, {
       "mfn" : "",
       "wrd" : "vorherrschen",
       "frm" : "herrscht vor / herrschte vor / hat vorgeherrscht",
       "trn" : "преобладать",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "weiterhin",
+      "frm" : "",
+      "trn" : "в будущем/кроме того",
       "xmp" : ""
     }, {
       "mfn" : "",
@@ -881,6 +1025,12 @@
       "xmp" : ""
     }, {
       "mfn" : "",
+      "wrd" : "zumal",
+      "frm" : "",
+      "trn" : "особенно/тем более что",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
       "wrd" : "zuordnen",
       "frm" : "ordnet zu / ordnete zu / hat zugeordnet",
       "trn" : "отнести кого-либо к какой-либо группе",
@@ -914,6 +1064,12 @@
       "wrd" : "über die Zeit des <Gen> hinaus",
       "frm" : "",
       "trn" : "по прошествии ч.-л.",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "überaus",
+      "frm" : "",
+      "trn" : "весьма",
       "xmp" : ""
     }, {
       "mfn" : "",
