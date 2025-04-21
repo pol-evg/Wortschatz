@@ -64,7 +64,7 @@ public class Language {
                 getLanguage(), defaultSource.getSource(), defaultSource.getWords().size());
     }
 
-    public void write(SaveStrategy saveStrategy) {
+    public void write() {
         try (var executor = Executors.newSingleThreadExecutor()) {
             executor.submit(() -> {
                 ObjectMapper objectMapper = new ObjectMapper();
@@ -73,7 +73,8 @@ public class Language {
                     try {
                         objectMapper.writerWithDefaultPrettyPrinter().writeValue(file, this);
                         System.out.println("Saved");
-                        updateReadme(saveStrategy);
+                        updateReadme(new SaveStrategy.Alphabetical());
+                        updateReadme(new SaveStrategy.Levenshtein());
                         System.out.println("Readme file updated");
                         executor.shutdownNow();
                     } catch (IOException e) {
@@ -122,11 +123,15 @@ public class Language {
                 writer.write("|---|---|------|-------|-------------|---------|");
                 writer.newLine();
 
-                for (Word word: saveStrategy.getWordSupplier().apply(source)) {
-                    writer.write("|");
-                    writer.write(String.valueOf(count++));
-                    writer.write(word.toMarkdown(language));
+                for (var group: saveStrategy.getWordSupplier().apply(source).entrySet()) {
+                    writer.write("| | |" + group.getKey() + "| | | |");
                     writer.newLine();
+                    for (var word: group.getValue()) {
+                        writer.write("|");
+                        writer.write(String.valueOf(count++));
+                        writer.write(word.toMarkdown(language));
+                        writer.newLine();
+                    }
                 }
             }
             writer.flush();

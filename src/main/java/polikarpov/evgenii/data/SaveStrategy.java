@@ -11,38 +11,39 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 
 @Getter
-public class SaveStrategy {
+class SaveStrategy {
 
     private final String readmeFile;
 
-    private final Function<Source, List<Word>> wordSupplier;
+    private final Function<Source, Map<String, List<Word>>> wordSupplier;
 
-    protected SaveStrategy(String readmeFile, Function<Source, List<Word>> wordSupplier) {
+    protected SaveStrategy(String readmeFile, Function<Source, Map<String, List<Word>>> wordSupplier) {
         this.readmeFile = readmeFile;
         this.wordSupplier = wordSupplier;
     }
 
-    public static class Alphabetical extends SaveStrategy {
+    static class Alphabetical extends SaveStrategy {
 
         public Alphabetical() {
             super("./sorted-a.md", Alphabetical::map);
         }
 
-        private static List<Word> map(Source source) {
-            return source.getWords();
+        private static Map<String, List<Word>> map(Source source) {
+            return source.getWords().stream().collect(Collectors.groupingBy(
+                    word -> String.valueOf(word.getValue().charAt(0)).toUpperCase()));
         }
     }
 
-    public static class Levenshtein extends SaveStrategy {
+    static class Levenshtein extends SaveStrategy {
 
         public Levenshtein() {
             super("./sorted-lvstn.md", Levenshtein::map);
         }
 
-        private static List<Word> map(Source source) {
+        private static Map<String, List<Word>> map(Source source) {
             List<Word> words = source.getWords();
             if (words.isEmpty() || words.size() == 1) {
-                return words;
+                return Alphabetical.map(source);
             }
             Pair<List<Word>, Integer> minDistanceSortedWords = getSortedWords(
                     words.getFirst(), getOthers(words.getFirst(), words));
@@ -53,7 +54,23 @@ public class SaveStrategy {
                     minDistanceSortedWords = sortedWords;
                 }
             }
-            return minDistanceSortedWords.getKey();
+            var sortedArray = minDistanceSortedWords.getKey().toArray(new Word[]{});
+            Map<String, List<Word>> result = new LinkedHashMap<>();
+            List<Word> group = new ArrayList<>();
+            group.add(sortedArray[0]);
+            for (int i=1; i<sortedArray.length; i++) {
+                Word word1 = sortedArray[i-1];
+                Word word2 = sortedArray[i];
+                LevenshteinDistance levenshtein = new LevenshteinDistance();
+                int distance = levenshtein.apply(word1.getValue(), word2.getValue());
+                if (distance > 5 && group.size() > 10) {
+                    result.put("Group" + (result.size()+1), new ArrayList<>(group));
+                    group.clear();
+                }
+                group.add(word2);
+            }
+            result.put("Group" + (result.size()+1), new ArrayList<>(group));
+            return result;
         }
 
         private static LinkedList<Word> getOthers(Word startWord, List<Word> words) {

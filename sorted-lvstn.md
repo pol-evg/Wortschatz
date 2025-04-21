@@ -1,6 +1,7 @@
 # Das agile Mindset
 |#|  | Word | Forms | Translation | Example |
 |---|---|------|-------|-------------|---------|
+| | |Group1| | | |
 |1| |[einhergehend](https://de.pons.com/übersetzung-2/deutsch-russisch/einhergehend)| |сопровождающий| |
 |2| |[einbeziehen](https://de.pons.com/übersetzung-2/deutsch-russisch/einbeziehen)|bezient ein / bezog ein / hat einbezogen|включать (во что-то)| |
 |3| |[einbinden](https://de.pons.com/übersetzung-2/deutsch-russisch/einbinden)|bindet ein / band ein / hat eingebunden|включать (in einer Konzept)| |
@@ -46,6 +47,7 @@
 |43| |[vorgeben](https://de.pons.com/übersetzung-2/deutsch-russisch/vorgeben)|gibt vor / gab vor / hast vorgegeben|задавать|...der Inhaber, dessen Mindset die Richtung vorgibt|
 |44|das |[Vorhaben](https://de.pons.com/übersetzung-2/deutsch-russisch/Vorhaben)|die Vorhaben(s)|намерение| |
 |45| |[hochfahren](https://de.pons.com/übersetzung-2/deutsch-russisch/hochfahren)|fährt hoch / fuhr hoch / ist hochgefahren|подниматься| |
+| | |Group2| | | |
 |46| |[entlavren](https://de.pons.com/übersetzung-2/deutsch-russisch/entlavren)|entlavrt / entlavrte / hat entlavrt|разоблачать| |
 |47| |[entfremden](https://de.pons.com/übersetzung-2/deutsch-russisch/entfremden)|entfremdet / entfremdete / hat entfremdet|отчуждать|sinnentfremdete Funktionen|
 |48|der |[Leitfaden](https://de.pons.com/übersetzung-2/deutsch-russisch/Leitfaden)|die Leitfäden|руководство| |
@@ -58,6 +60,7 @@
 |55|die |[Lage](https://de.pons.com/übersetzung-2/deutsch-russisch/Lage)|die Lagen|положение/ситуация| |
 |56|die |[Ebene](https://de.pons.com/übersetzung-2/deutsch-russisch/Ebene)|die Ebenen|уровень| |
 |57|die |[Facette](https://de.pons.com/übersetzung-2/deutsch-russisch/Facette)|die Facetten|грань| |
+| | |Group3| | | |
 |58|die |[Annahme](https://de.pons.com/übersetzung-2/deutsch-russisch/Annahme)|die Annahmen|приём/предположение| |
 |59|der |[Ansatz](https://de.pons.com/übersetzung-2/deutsch-russisch/Ansatz)|die Ansätze|подход|Agilität als Ansatz zur Unternehmenssteuerung|
 |60|die |[Absicht](https://de.pons.com/übersetzung-2/deutsch-russisch/Absicht)|die Absichten|намерение| |
@@ -74,6 +77,7 @@
 |71| |[verhindern](https://de.pons.com/übersetzung-2/deutsch-russisch/verhindern)|verhindert / verhinderte / hat verhindert|препятствовать/предотвращать| |
 |72| |[behindern](https://de.pons.com/übersetzung-2/deutsch-russisch/behindern)|behindert / behinderte / hat behindert|препятствовать/мешать| |
 |73| |[revidieren](https://de.pons.com/übersetzung-2/deutsch-russisch/revidieren)|revidiert / revidierte / hat revisiert|пересматривать/пересмотреть| |
+| | |Group4| | | |
 |74| |[attestieren](https://de.pons.com/übersetzung-2/deutsch-russisch/attestieren)|attestiert / atterstierte / hat attestiert|свидетельствовать| |
 |75| |[scheitern](https://de.pons.com/übersetzung-2/deutsch-russisch/scheitern)|scheitert / scheiterte / ist gescheitert|потерпеть неудачу| |
 |76| |[weiterhin](https://de.pons.com/übersetzung-2/deutsch-russisch/weiterhin)| |в будущем/кроме того| |
@@ -87,6 +91,7 @@
 |84| |[wirksam](https://de.pons.com/übersetzung-2/deutsch-russisch/wirksam)| |действенный| |
 |85| |[worin](https://de.pons.com/übersetzung-2/deutsch-russisch/worin)| |в чём| |
 |86|der |[Begriff](https://de.pons.com/übersetzung-2/deutsch-russisch/Begriff)|die Begriffe(s)|понятие| |
+| | |Group5| | | |
 |87| |[demnach](https://de.pons.com/übersetzung-2/deutsch-russisch/demnach)| |соответственно/согласно| |
 |88| |[dadurch](https://de.pons.com/übersetzung-2/deutsch-russisch/dadurch)| |благодаря тому, что/вследствие того, что| |
 |89| |[durchaus](https://de.pons.com/übersetzung-2/deutsch-russisch/durchaus)| |абсолютно| |
@@ -99,6 +104,7 @@
 |96| |[zuordnen](https://de.pons.com/übersetzung-2/deutsch-russisch/zuordnen)|ordnet zu / ordnete zu / hat zugeordnet|отнести кого-либо к какой-либо группе|jdn einer Gruppe zuordnen|
 |97|der |[Prophet](https://de.pons.com/übersetzung-2/deutsch-russisch/Prophet)|die Propheten|пророк| |
 |98|die |[Prophetin](https://de.pons.com/übersetzung-2/deutsch-russisch/Prophetin)|die Profetinen|пророк (жен.)| |
+| | |Group6| | | |
 |99|die |[Nische](https://de.pons.com/übersetzung-2/deutsch-russisch/Nische)|die Nischen|ниша| |
 |100| |[dazwischen](https://de.pons.com/übersetzung-2/deutsch-russisch/dazwischen)| |между этим/тем|mit der Hand komme ich dazwischen - я могу рукой пролезть/достать|
 |101|der |[Augenschein](https://de.pons.com/übersetzung-2/deutsch-russisch/Augenschein)|die Augenscheine(s)|вид/видимость|etw in Augenschein nehmen - осмотреть|
@@ -111,6 +117,7 @@
 |108| |[einschätzen](https://de.pons.com/übersetzung-2/deutsch-russisch/einschätzen)|shätzt ein / schätzte ein / hat eingeschätzt|оценивать| |
 |109| |[verschärfen](https://de.pons.com/übersetzung-2/deutsch-russisch/verschärfen)|verschärft / verschärfte / hat verschärft|ужесточать/обостряться| |
 |110| |[verknüpfen](https://de.pons.com/übersetzung-2/deutsch-russisch/verknüpfen)|verknüpft / verknüpfte / hat verknüpft|связывать| |
+| | |Group7| | | |
 |111|die |[Vernunft](https://de.pons.com/übersetzung-2/deutsch-russisch/Vernunft)| |разум/рассудок/здравый смысл| |
 |112|die |[Verbündete](https://de.pons.com/übersetzung-2/deutsch-russisch/Verbündete)|die Verbündeten|союзница| |
 |113|der |[Verbündeter](https://de.pons.com/übersetzung-2/deutsch-russisch/Verbündeter)|die Verbündeten|союзник| |
@@ -123,6 +130,7 @@
 |120| |[umgekehrt](https://de.pons.com/übersetzung-2/deutsch-russisch/umgekehrt)| |обратный/наоборот| |
 |121| |[versiert](https://de.pons.com/übersetzung-2/deutsch-russisch/versiert)| |опытный| |
 |122|das |[Sortiment](https://de.pons.com/übersetzung-2/deutsch-russisch/Sortiment)| |ассортимент| |
+| | |Group8| | | |
 |123| |[stützen](https://de.pons.com/übersetzung-2/deutsch-russisch/stützen)|stützt / stützte / hat gestützt|опираться|Worauf stützen Sie gerade Ihre Zeiteinschätzung?|
 |124|die |[Spürnase](https://de.pons.com/übersetzung-2/deutsch-russisch/Spürnase)| |нюх/проницательность| |
 |125|die |[Prämisse](https://de.pons.com/übersetzung-2/deutsch-russisch/Prämisse)|die Prämissen|предпосылка| |
@@ -134,6 +142,7 @@
 |131| |[immer noch](https://de.pons.com/übersetzung-2/deutsch-russisch/immer+noch)| |всё ещё| |
 |132| |[trügerisch](https://de.pons.com/übersetzung-2/deutsch-russisch/trügerisch)| |обманчивый| |
 |133| |[vorherrschen](https://de.pons.com/übersetzung-2/deutsch-russisch/vorherrschen)|herrscht vor / herrschte vor / hat vorgeherrscht|преобладать| |
+| | |Group9| | | |
 |134| |[vorantreiben](https://de.pons.com/übersetzung-2/deutsch-russisch/vorantreiben)|treibt voran / trieb voran / hat vornagetrieben|ускорять/форсировать| |
 |135|die |[Übertreibung](https://de.pons.com/übersetzung-2/deutsch-russisch/Übertreibung)| |преувеличение| |
 |136| |[überflüssig](https://de.pons.com/übersetzung-2/deutsch-russisch/überflüssig)| |лишний / ненужный| |
@@ -145,6 +154,7 @@
 |142| |[vielmehr](https://de.pons.com/übersetzung-2/deutsch-russisch/vielmehr)| |скорее| |
 |143| |[ermöglichen](https://de.pons.com/übersetzung-2/deutsch-russisch/ermöglichen)| |делать возможным| |
 |144| |[erheblich besser](https://de.pons.com/übersetzung-2/deutsch-russisch/erheblich+besser)| |значительно лучше| |
+| | |Group10| | | |
 |145| |[sich loslösen](https://de.pons.com/übersetzung-2/deutsch-russisch/sich+loslösen)|löst los / löste los / hat losgelöst|оторваться|es ist nicht losgelöst zu sehen - это нельзя рассматривать изолированно|
 |146| |[sich wappnen](https://de.pons.com/übersetzung-2/deutsch-russisch/sich+wappnen)|wappnet / wappnete / hat gewappnet|вооружиться|..., ob sie für eine Aufgabe gewappnet sind.|
 |147| |[sich wiederfinden](https://de.pons.com/übersetzung-2/deutsch-russisch/sich+wiederfinden)|findet wieder / fand wieder / hat wiedergefunden|оказаться/оказываться|..., dass sie sich als Softwarespezialisten wiederfinden?|
@@ -156,6 +166,7 @@
 |153|die |[Herangehensweise](https://de.pons.com/übersetzung-2/deutsch-russisch/Herangehensweise)|die Heransgehensweisen|подход (к решению проблемы)| |
 |154|die |[Ausgangsbasis](https://de.pons.com/übersetzung-2/deutsch-russisch/Ausgangsbasis)|die Ausgangsbasis|исходный пункт| |
 |155| |[zwangsläufig](https://de.pons.com/übersetzung-2/deutsch-russisch/zwangsläufig)| |неизбежный| |
+| | |Group11| | | |
 |156| |[vollständig](https://de.pons.com/übersetzung-2/deutsch-russisch/vollständig)| |полный/совершенно/полностью| |
 |157|der |[Selbsterhalt](https://de.pons.com/übersetzung-2/deutsch-russisch/Selbsterhalt)| |самосохранение| |
 |158|der |[Glaubenssatz](https://de.pons.com/übersetzung-2/deutsch-russisch/Glaubenssatz)|die Glaubensätze|догма|durch soziale Prägungen entstandene Glaubenssätze|
@@ -167,6 +178,7 @@
 |164| |[weiterkommen](https://de.pons.com/übersetzung-2/deutsch-russisch/weiterkommen)|kommt weiter / kam weiter / ist weitergekommen|продвигаться| |
 |165|die |[Herausforderung](https://de.pons.com/übersetzung-2/deutsch-russisch/Herausforderung)|die Hrausforderungen|вызов| |
 |166| |[raffiniert](https://de.pons.com/übersetzung-2/deutsch-russisch/raffiniert)| |изысканный/утонченный/хитрый/коварный| |
+| | |Group12| | | |
 |167|die |[Schnittstelle](https://de.pons.com/übersetzung-2/deutsch-russisch/Schnittstelle)|die Schnittstellen|интерфейс| |
 |168|die |[Zusammenstellung](https://de.pons.com/übersetzung-2/deutsch-russisch/Zusammenstellung)|die Zusammenstellungen|состав/список/сборник| |
 |169| |[zusammenfügen](https://de.pons.com/übersetzung-2/deutsch-russisch/zusammenfügen)|fügt zusammen / fügte zusammen / hat zusammengefügt|собрать вместе/соединять/связывать| |
@@ -178,6 +190,7 @@
 |175| |[eine Entscheidung treffen](https://de.pons.com/übersetzung-2/deutsch-russisch/eine+Entscheidung+treffen)| |принимать решение| |
 |176| |[etw in Keim ersticken](https://de.pons.com/übersetzung-2/deutsch-russisch/etw+in+Keim+ersticken)| |уничтожить что-либо в разодыше| |
 |177| |[jdm den Rang ablaufen](https://de.pons.com/übersetzung-2/deutsch-russisch/jdm+den+Rang+ablaufen)| |отобрать у кого-либо пальму первенства|..., dass das Auto niemals dem Pferd den Rang ablaufen könnte|
+| | |Group13| | | |
 |178| |[das lässt sich verschieden](https://de.pons.com/übersetzung-2/deutsch-russisch/das+lässt+sich+verschieden)| |это можно сделать разными способами| |
 |179| |[sich Dat etw Gen bewusst sein](https://de.pons.com/übersetzung-2/deutsch-russisch/sich+Dat+etw+Gen+bewusst+sein)| |знать что-либо|Die wenigsten sind sich bewusst, ...|
 |180| |[einer Sache auf den Grund gehen](https://de.pons.com/übersetzung-2/deutsch-russisch/einer+Sache+auf+den+Grund+gehen)| |глубоко вникнуть в суть какого-лило дела|Ich muss der Idee von unserem Mindset auf gen Grund gehen|
@@ -186,6 +199,7 @@
 # Steuererklärung
 |#|  | Word | Forms | Translation | Example |
 |---|---|------|-------|-------------|---------|
+| | |Group1| | | |
 |1|die |[Unterhaltsverpflichtung](https://de.pons.com/übersetzung-2/deutsch-russisch/Unterhaltsverpflichtung)| |обязанность содержать детей| |
 |2|die |[Erläuterung](https://de.pons.com/übersetzung-2/deutsch-russisch/Erläuterung)|die Erläuterungen|пояснение/объяснение| |
 |3|die |[Ermittlung](https://de.pons.com/übersetzung-2/deutsch-russisch/Ermittlung)|die Ermittlungen|расследование| |
@@ -201,6 +215,7 @@
 |13| |[einlegen](https://de.pons.com/übersetzung-2/deutsch-russisch/einlegen)|legt ein / leget ein / hat eingelegt|подавать (JUR)|Einspruch einlegen - выдвинуть возражение/протестовать|
 |14| |[einreichen](https://de.pons.com/übersetzung-2/deutsch-russisch/einreichen)|reicht ein / reichte ein / hat eingereicht|подавать|eine Beschwerde einreichen - подать жалобу|
 |15| |[hinzurechnen](https://de.pons.com/übersetzung-2/deutsch-russisch/hinzurechnen)|rechnet hinzu / rechnete hinzu / hat hinzugerechnet|прибавлять/присовокуплять/причислять| |
+| | |Group2| | | |
 |16|der |[Einspruch](https://de.pons.com/übersetzung-2/deutsch-russisch/Einspruch)|die Einspuche(s)|возражение| |
 |17|der |[Anspruch](https://de.pons.com/übersetzung-2/deutsch-russisch/Anspruch)|die Ansprüche|притязание/требование/право|auf etw Anspruch erheben - претендовать на что-либо|
 |18|der |[Abruf](https://de.pons.com/übersetzung-2/deutsch-russisch/Abruf)|die Abrufe(s)|востребование| |
@@ -212,6 +227,7 @@
 |24| |[berücksichtigen](https://de.pons.com/übersetzung-2/deutsch-russisch/berücksichtigen)|berücksichtigt / berücksichtigte / hat berücksichtigt|учитывать| |
 |25| |[bezüglich ](https://de.pons.com/übersetzung-2/deutsch-russisch/bezüglich+)| |относительно/касательно | |
 |26| |[lediglich](https://de.pons.com/übersetzung-2/deutsch-russisch/lediglich)| |только/лишь| |
+| | |Group3| | | |
 |27| |[hinsichtlich](https://de.pons.com/übersetzung-2/deutsch-russisch/hinsichtlich)| |относительно/в отношении| |
 |28|der |[Abschluss](https://de.pons.com/übersetzung-2/deutsch-russisch/Abschluss)|die Abschlüsse|окончание|Abschluss des Änderungsverfahrens|
 |29|der |[Zuschlag](https://de.pons.com/übersetzung-2/deutsch-russisch/Zuschlag)|die Zuschläge|доплата| |
@@ -224,6 +240,7 @@
 |36| |[widrig](https://de.pons.com/übersetzung-2/deutsch-russisch/widrig)| |противоречащий|verfassungswidrig - противоречащий конституции|
 |37| |[zulässig](https://de.pons.com/übersetzung-2/deutsch-russisch/zulässig)| |допустимый| |
 |38| |[vorläufig](https://de.pons.com/übersetzung-2/deutsch-russisch/vorläufig)| |временный/предварительный| |
+| | |Group4| | | |
 |39|der |[Wortlaut](https://de.pons.com/übersetzung-2/deutsch-russisch/Wortlaut)|die Wortlaute(s)|дословный текст| |
 |40| |[verstoßen](https://de.pons.com/übersetzung-2/deutsch-russisch/verstoßen)|verstößt / verstieß / hat verstoßen|нарушать| |
 |41| |[verbleibend](https://de.pons.com/übersetzung-2/deutsch-russisch/verbleibend)| |оставшийся| |
@@ -235,6 +252,7 @@
 |47| |[ausschließen ](https://de.pons.com/übersetzung-2/deutsch-russisch/ausschließen+)|schließt aus / schloss aus / hat ausgeschlossen|исключать |ein Einspruch ist jedoch ausgeschlossen, soweit ...|
 |48| |[ausschöpfen](https://de.pons.com/übersetzung-2/deutsch-russisch/ausschöpfen)|schöpft aus / schöpfte aus / hat ausgeschöpft|исчерпать| |
 |49| |[aufbewahren](https://de.pons.com/übersetzung-2/deutsch-russisch/aufbewahren)|bewahrt auf / bewahrte auf / hat aufbewahrt|хранить/сохранять| |
+| | |Group5| | | |
 |50| |[vorbezeichnet](https://de.pons.com/übersetzung-2/deutsch-russisch/vorbezeichnet)| |предопределённый| |
 |51|die |[Vorschrift](https://de.pons.com/übersetzung-2/deutsch-russisch/Vorschrift)|die Vorschriften|инструкция/положение|die angeführten gesetzlichen Vorschriften|
 |52|die |[Niederschrift](https://de.pons.com/übersetzung-2/deutsch-russisch/Niederschrift)|die Neiderschriften|запись/протокол| |
