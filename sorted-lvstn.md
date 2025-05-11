@@ -93,12 +93,12 @@
 |86|der |[Begriff](https://de.pons.com/übersetzung-2/deutsch-russisch/Begriff)|die Begriffe(s)|понятие| |
 | | |Group5| | | |
 |87| |[demnach](https://de.pons.com/übersetzung-2/deutsch-russisch/demnach)| |соответственно/согласно| |
-|88| |[dadurch](https://de.pons.com/übersetzung-2/deutsch-russisch/dadurch)| |благодаря тому, что/вследствие того, что| |
+|88| |[dadurch](https://de.pons.com/übersetzung-2/deutsch-russisch/dadurch)| |через/благодаря тому, что/вследствие того, что| |
 |89| |[durchaus](https://de.pons.com/übersetzung-2/deutsch-russisch/durchaus)| |абсолютно| |
 |90| |[überaus](https://de.pons.com/übersetzung-2/deutsch-russisch/überaus)| |весьма| |
 |91| |[überhaupt](https://de.pons.com/übersetzung-2/deutsch-russisch/überhaupt)| |вообще| |
 |92| |[übersehen](https://de.pons.com/übersetzung-2/deutsch-russisch/übersehen)|übersieht / übersah / hat übersehen|не замечать| |
-|93| |[freisetzen](https://de.pons.com/übersetzung-2/deutsch-russisch/freisetzen)|setzt frei / setzte frei / hat freigesetzt|освобождать| |
+|93| |[freisetzen](https://de.pons.com/übersetzung-2/deutsch-russisch/freisetzen)|setzt frei / setzte frei / hat freigesetzt|освобождать/befreien| |
 |94| |[durchsetzen](https://de.pons.com/übersetzung-2/deutsch-russisch/durchsetzen)|setzt durch / setzte durch / hat durchgesetzt|добиться/добиваться/настаивать| |
 |95| |[durchdenken](https://de.pons.com/übersetzung-2/deutsch-russisch/durchdenken)|denkt durch / dachte durch / hat durchgedacht|продумывать|wohl durchdenken - хорошо обдуманный|
 |96| |[zuordnen](https://de.pons.com/übersetzung-2/deutsch-russisch/zuordnen)|ordnet zu / ordnete zu / hat zugeordnet|отнести кого-либо к какой-либо группе|jdn einer Gruppe zuordnen|
@@ -222,7 +222,7 @@
 |19|das |[Attest](https://de.pons.com/übersetzung-2/deutsch-russisch/Attest)|die Atteste(s)|свидетельство| |
 |20| |[soweit](https://de.pons.com/übersetzung-2/deutsch-russisch/soweit)| |насколько| |
 |21| |[streitig](https://de.pons.com/übersetzung-2/deutsch-russisch/streitig)| |оспариваемый| |
-|22| |[berechtigen](https://de.pons.com/übersetzung-2/deutsch-russisch/berechtigen)|berechtigt / berechtigte / hat ^berechtigt|давать право/разрешать| |
+|22| |[berechtigen](https://de.pons.com/übersetzung-2/deutsch-russisch/berechtigen)|berechtigt / berechtigte / hat berechtigt|давать право/разрешать| |
 |23| |[beabsichtigen](https://de.pons.com/übersetzung-2/deutsch-russisch/beabsichtigen)|beabsichtigt / beabsichtigte / hat beabsichtigt|намереваться что-то сделать| |
 |24| |[berücksichtigen](https://de.pons.com/übersetzung-2/deutsch-russisch/berücksichtigen)|berücksichtigt / berücksichtigte / hat berücksichtigt|учитывать| |
 |25| |[bezüglich ](https://de.pons.com/übersetzung-2/deutsch-russisch/bezüglich+)| |относительно/касательно | |

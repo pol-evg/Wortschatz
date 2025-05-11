@@ -50,7 +50,7 @@
 |45| |[bewerben](https://de.pons.com/übersetzung-2/deutsch-russisch/bewerben)|bewirbt / bewarb / hat beworben|Reklame machen| |
 |46| |[beziehen (sich)](https://de.pons.com/übersetzung-2/deutsch-russisch/beziehen+(sich))|bezient / bezog / hat bezogen|ссылаться| |
 | | |D| | | |
-|47| |[dadurch](https://de.pons.com/übersetzung-2/deutsch-russisch/dadurch)| |благодаря тому, что/вследствие того, что| |
+|47| |[dadurch](https://de.pons.com/übersetzung-2/deutsch-russisch/dadurch)| |через/благодаря тому, что/вследствие того, что| |
 |48| |[daher](https://de.pons.com/übersetzung-2/deutsch-russisch/daher)| |оттуда|das kommt daher, dass... - это от того, что...|
 |49| |[darstellen](https://de.pons.com/übersetzung-2/deutsch-russisch/darstellen)|stellt dar / stellte dar / hat dargestellt|представлять, изображать| |
 |50| |[das lässt sich verschieden](https://de.pons.com/übersetzung-2/deutsch-russisch/das+lässt+sich+verschieden)| |это можно сделать разными способами| |
@@ -94,7 +94,7 @@
 |86| |[fassbar](https://de.pons.com/übersetzung-2/deutsch-russisch/fassbar)| |понятный/постижимый| |
 |87| |[festgefahren](https://de.pons.com/übersetzung-2/deutsch-russisch/festgefahren)| |застрявший (на мёртвой точке)/зашедший в тупик| |
 |88| |[feststellen](https://de.pons.com/übersetzung-2/deutsch-russisch/feststellen)|stellt fest / stellte fest / hat festgestellt|устанавливать/констатировать| |
-|89| |[freisetzen](https://de.pons.com/übersetzung-2/deutsch-russisch/freisetzen)|setzt frei / setzte frei / hat freigesetzt|освобождать| |
+|89| |[freisetzen](https://de.pons.com/übersetzung-2/deutsch-russisch/freisetzen)|setzt frei / setzte frei / hat freigesetzt|освобождать/befreien| |
 |90|die |[Förderung](https://de.pons.com/übersetzung-2/deutsch-russisch/Förderung)|die Förderungen|поощрение|Focus auf Förderung von selbst organisierten Teams|
 | | |G| | | |
 |91|der |[Gedanke](https://de.pons.com/übersetzung-2/deutsch-russisch/Gedanke)|die Gedanken|мысль/идея| |
@@ -225,7 +225,7 @@
 |14| |[beabsichtigen](https://de.pons.com/übersetzung-2/deutsch-russisch/beabsichtigen)|beabsichtigt / beabsichtigte / hat beabsichtigt|намереваться что-то сделать| |
 |15| |[bemessen](https://de.pons.com/übersetzung-2/deutsch-russisch/bemessen)|bemisst / bemaß / hat bemessen|отмерять| |
 |16|die |[Bemessungsgrundlage](https://de.pons.com/übersetzung-2/deutsch-russisch/Bemessungsgrundlage)|die Bemessungsgrunglagen|основание для определения размеров чего-либо| |
-|17| |[berechtigen](https://de.pons.com/übersetzung-2/deutsch-russisch/berechtigen)|berechtigt / berechtigte / hat ^berechtigt|давать право/разрешать| |
+|17| |[berechtigen](https://de.pons.com/übersetzung-2/deutsch-russisch/berechtigen)|berechtigt / berechtigte / hat berechtigt|давать право/разрешать| |
 |18| |[berücksichtigen](https://de.pons.com/übersetzung-2/deutsch-russisch/berücksichtigen)|berücksichtigt / berücksichtigte / hat berücksichtigt|учитывать| |
 |19| |[betreffen](https://de.pons.com/übersetzung-2/deutsch-russisch/betreffen)|betrifft / betraf / hat betroffen|касаться| |
 |20| |[bezüglich ](https://de.pons.com/übersetzung-2/deutsch-russisch/bezüglich+)| |относительно/касательно | |

@@ -283,7 +283,7 @@
       "mfn" : "",
       "wrd" : "dadurch",
       "frm" : "",
-      "trn" : "благодаря тому, что/вследствие того, что",
+      "trn" : "через/благодаря тому, что/вследствие того, что",
       "xmp" : ""
     }, {
       "mfn" : "",
@@ -535,7 +535,7 @@
       "mfn" : "",
       "wrd" : "freisetzen",
       "frm" : "setzt frei / setzte frei / hat freigesetzt",
-      "trn" : "освобождать",
+      "trn" : "освобождать/befreien",
       "xmp" : ""
     }, {
       "mfn" : "f",
@@ -1198,7 +1198,7 @@
     }, {
       "mfn" : "",
       "wrd" : "berechtigen",
-      "frm" : "berechtigt / berechtigte / hat ^berechtigt",
+      "frm" : "berechtigt / berechtigte / hat berechtigt",
       "trn" : "давать право/разрешать",
       "xmp" : ""
     }, {
