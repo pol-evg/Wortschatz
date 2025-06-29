@@ -47,6 +47,12 @@
       "xmp" : ""
     }, {
       "mfn" : "",
+      "wrd" : "andersherum",
+      "frm" : "",
+      "trn" : "шиворот-навыворот",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
       "wrd" : "angeblich",
       "frm" : "",
       "trn" : "мнимый",
@@ -107,6 +113,12 @@
       "xmp" : ""
     }, {
       "mfn" : "f",
+      "wrd" : "Aufklärung",
+      "frm" : "",
+      "trn" : "эпоха Просвещения",
+      "xmp" : ""
+    }, {
+      "mfn" : "f",
       "wrd" : "Aufnahmefähigkeit",
       "frm" : "die Aufnahmefächigkeiten",
       "trn" : "вместимость",
@@ -117,6 +129,18 @@
       "frm" : "nimmt auf / nahm auf / aufgenommen",
       "trn" : "начинать/возобновлять",
       "xmp" : "Tätigkeit"
+    }, {
+      "mfn" : "",
+      "wrd" : "aufrecht",
+      "frm" : "",
+      "trn" : "прямой/честный/порядочный",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "aufrichten",
+      "frm" : "richtet auf / richtete auf / hat aufgerichtet",
+      "trn" : "поднимать",
+      "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Aufstellung",
@@ -164,6 +188,12 @@
       "wrd" : "ausmachen",
       "frm" : "macht aus / machte aus / ausgemacht",
       "trn" : "иметь значение",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "ausrichten",
+      "frm" : "richtet aus / richtete aus / hat ausgerichtet",
+      "trn" : "ориентировать",
       "xmp" : ""
     }, {
       "mfn" : "",
@@ -269,6 +299,12 @@
       "xmp" : "..., dass Sie das Unternehmen ... nicht mehr ... betreiben können"
     }, {
       "mfn" : "",
+      "wrd" : "bewahren",
+      "frm" : "bewahrt / bewahrte / hat bewahrt",
+      "trn" : "охранять/оберегать",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
       "wrd" : "bewerben",
       "frm" : "bewirbt / bewarb / hat beworben",
       "trn" : "Reklame machen",
@@ -352,6 +388,12 @@
       "trn" : "уровень",
       "xmp" : ""
     }, {
+      "mfn" : "m",
+      "wrd" : "Eckpfeiler",
+      "frm" : "",
+      "trn" : "краеугольный камень",
+      "xmp" : ""
+    }, {
       "mfn" : "",
       "wrd" : "ehe",
       "frm" : "",
@@ -362,6 +404,12 @@
       "wrd" : "eher",
       "frm" : "",
       "trn" : "lieber/früher",
+      "xmp" : ""
+    }, {
+      "mfn" : "f",
+      "wrd" : "Eignung",
+      "frm" : "",
+      "trn" : "пригодность",
       "xmp" : ""
     }, {
       "mfn" : "",
@@ -485,6 +533,12 @@
       "xmp" : ""
     }, {
       "mfn" : "",
+      "wrd" : "erstrebenswert",
+      "frm" : "",
+      "trn" : "желаемый/желанный",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
       "wrd" : "es geht um ...",
       "frm" : "",
       "trn" : "речь идёт о...",
@@ -556,6 +610,12 @@
       "trn" : "доказательство противоположного/контраргумент",
       "xmp" : ""
     }, {
+      "mfn" : "f",
+      "wrd" : "Gelassenheit",
+      "frm" : "",
+      "trn" : "спокойствие/невозмутимость",
+      "xmp" : ""
+    }, {
       "mfn" : "",
       "wrd" : "gelingen",
       "frm" : "gelingt / geland / ist gelungen",
@@ -573,6 +633,18 @@
       "frm" : "die Glaubensätze",
       "trn" : "догма",
       "xmp" : "durch soziale Prägungen entstandene Glaubenssätze"
+    }, {
+      "mfn" : "",
+      "wrd" : "gleichsetzen",
+      "frm" : "setzt gleich / setzte gleich / hat gleichgesetzt",
+      "trn" : "приравнивать/отождествлять",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "glückselig",
+      "frm" : "",
+      "trn" : "блаженный",
+      "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Grundlage",
@@ -629,6 +701,12 @@
       "xmp" : ""
     }, {
       "mfn" : "",
+      "wrd" : "hohle",
+      "frm" : "",
+      "trn" : "пустой",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
       "wrd" : "immer noch",
       "frm" : "",
       "trn" : "всё ещё",
@@ -651,6 +729,12 @@
       "frm" : "",
       "trn" : "отобрать у кого-либо пальму первенства",
       "xmp" : "..., dass das Auto niemals dem Pferd den Rang ablaufen könnte"
+    }, {
+      "mfn" : "",
+      "wrd" : "jenseits",
+      "frm" : "",
+      "trn" : "по ту сторону",
+      "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Lage",
@@ -676,10 +760,22 @@
       "trn" : "не отставать/не отстать от других",
       "xmp" : ""
     }, {
+      "mfn" : "",
+      "wrd" : "nach wie vor",
+      "frm" : "",
+      "trn" : "по-прежнему",
+      "xmp" : ""
+    }, {
       "mfn" : "f",
       "wrd" : "Nische",
       "frm" : "die Nischen",
       "trn" : "ниша",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "projizieren",
+      "frm" : "projiziert / projizierte / hat projiziert",
+      "trn" : "проецировать",
       "xmp" : ""
     }, {
       "mfn" : "m",
@@ -746,6 +842,12 @@
       "wrd" : "scheitern",
       "frm" : "scheitert / scheiterte / ist gescheitert",
       "trn" : "потерпеть неудачу",
+      "xmp" : ""
+    }, {
+      "mfn" : "f",
+      "wrd" : "Schicht",
+      "frm" : "Schichten",
+      "trn" : "слой (общественный)",
       "xmp" : ""
     }, {
       "mfn" : "f",
@@ -857,10 +959,34 @@
       "xmp" : ""
     }, {
       "mfn" : "",
+      "wrd" : "unmittelbar",
+      "frm" : "",
+      "trn" : "непосредственный",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
       "wrd" : "unterliegen",
       "frm" : "unterliegt / unterlag / ist unterlegen",
       "trn" : "подчиняться/проигрывать",
       "xmp" : "Sie unterliegen der Selbstbestätigungstendenz"
+    }, {
+      "mfn" : "",
+      "wrd" : "unterliegen ger Gefahr",
+      "frm" : "unterliegt / unterlag / ist unterlegen",
+      "trn" : "подвргаться опасности",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "unterordnen",
+      "frm" : "ordnet unter / ordnete unter / hat untergeordnet",
+      "trn" : "подчинять",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "verankern",
+      "frm" : "verankert / verankerte / hat verankert",
+      "trn" : "закреплять",
+      "xmp" : ""
     }, {
       "mfn" : "f",
       "wrd" : "Verbündete",
@@ -920,6 +1046,18 @@
       "wrd" : "Verstand",
       "frm" : "die Verstande(s)",
       "trn" : "ум/разум/рассудок",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "verterten",
+      "frm" : "vertritt / vertrat / hat vertreten",
+      "trn" : "представлять (ч.-л. фирму, группу, интересы, точку зрения)",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "verwechseln",
+      "frm" : "verwechselt / verwechselte / hat verwechselt",
+      "trn" : "путать/перепутать",
       "xmp" : ""
     }, {
       "mfn" : "",
@@ -994,6 +1132,12 @@
       "trn" : "далекоидущий",
       "xmp" : ""
     }, {
+      "mfn" : "f",
+      "wrd" : "Wendung",
+      "frm" : "die Wendungen",
+      "trn" : "поворот/перемена",
+      "xmp" : ""
+    }, {
       "mfn" : "",
       "wrd" : "wesentlich",
       "frm" : "",
@@ -1010,6 +1154,12 @@
       "wrd" : "willkürlich",
       "frm" : "",
       "trn" : "произвольно",
+      "xmp" : ""
+    }, {
+      "mfn" : "",
+      "wrd" : "wirken",
+      "frm" : "wirkt / wirkte / hat gewirkt",
+      "trn" : "действовать",
       "xmp" : ""
     }, {
       "mfn" : "",
@@ -1325,7 +1475,7 @@
       "mfn" : "f",
       "wrd" : "Leistung",
       "frm" : "die Leistungen",
-      "trn" : "платёж/пособие",
+      "trn" : "платёж/пособие/достижение/результат/работоспособность",
       "xmp" : ""
     }, {
       "mfn" : "f",
